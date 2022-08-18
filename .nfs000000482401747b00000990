@@ -1,0 +1,1784 @@
+nohup: 入力を無視します
+[I 2022-05-27 15:06:35.942 ServerApp] jupyterlab | extension was successfully linked.
+[W 2022-05-27 15:06:35.947 NotebookApp] 'extra_static_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[I 2022-05-27 15:06:36.245 ServerApp] nbclassic | extension was successfully linked.
+[I 2022-05-27 15:06:36.275 ServerApp] The port 8888 is already in use, trying another port.
+[I 2022-05-27 15:06:36.275 ServerApp] The port 8889 is already in use, trying another port.
+[I 2022-05-27 15:06:36.275 ServerApp] The port 8890 is already in use, trying another port.
+[I 2022-05-27 15:06:36.276 ServerApp] The port 8891 is already in use, trying another port.
+[I 2022-05-27 15:06:36.276 ServerApp] The port 8892 is already in use, trying another port.
+[I 2022-05-27 15:06:36.281 LabApp] JupyterLab extension loaded from /usr/local/lib/python3.6/site-packages/jupyterlab
+[I 2022-05-27 15:06:36.281 LabApp] JupyterLab application directory is /usr/local/share/jupyter/lab
+[I 2022-05-27 15:06:36.285 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2022-05-27 15:06:36.289 ServerApp] nbclassic | extension was successfully loaded.
+[I 2022-05-27 15:06:36.289 ServerApp] Serving notebooks from local directory: /mnt/meteo-hdd02/konagai
+[I 2022-05-27 15:06:36.289 ServerApp] Jupyter Server 1.4.1 is running at:
+[I 2022-05-27 15:06:36.289 ServerApp] http://localhost:8886/lab?token=602db4910dbc983d7e68546e603a9af502cd065912656b1c
+[I 2022-05-27 15:06:36.289 ServerApp]  or http://127.0.0.1:8886/lab?token=602db4910dbc983d7e68546e603a9af502cd065912656b1c
+[I 2022-05-27 15:06:36.289 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2022-05-27 15:06:36.295 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/konagai/.local/share/jupyter/runtime/jpserver-1150257-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8886/lab?token=602db4910dbc983d7e68546e603a9af502cd065912656b1c
+     or http://127.0.0.1:8886/lab?token=602db4910dbc983d7e68546e603a9af502cd065912656b1c
+[W 2022-05-27 15:08:51.496 LabApp] Could not determine jupyterlab build status without nodejs
+/usr/lib64/python3.6/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[W 2022-05-27 15:08:53.396 ServerApp] 404 GET /api/contents/konagai/%E6%B0%97%E5%9C%A72.ipynb?content=0&1653631213094 (::1): No such file or directory: konagai/気圧2.ipynb
+[W 2022-05-27 15:08:53.397 ServerApp] No such file or directory: konagai/気圧2.ipynb
+[W 2022-05-27 15:08:53.397 ServerApp] 404 GET /api/contents/konagai/%E6%B0%97%E5%9C%A72.ipynb?content=0&1653631213094 (::1) 1.78ms referer=http://localhost:8886/lab
+[W 2022-05-27 15:08:53.398 ServerApp] 404 GET /api/contents/konagai/Untitled4.ipynb?content=0&1653631213098 (::1): No such file or directory: konagai/Untitled4.ipynb
+[W 2022-05-27 15:08:53.398 ServerApp] No such file or directory: konagai/Untitled4.ipynb
+[W 2022-05-27 15:08:53.398 ServerApp] 404 GET /api/contents/konagai/Untitled4.ipynb?content=0&1653631213098 (::1) 1.01ms referer=http://localhost:8886/lab
+[W 2022-05-27 15:08:53.399 ServerApp] 404 GET /api/contents/konagai/%E6%B0%97%E5%9C%A7%E3%81%AE%E6%8F%8F%E7%94%BB.ipynb?content=0&1653631213090 (::1): No such file or directory: konagai/気圧の描画.ipynb
+[W 2022-05-27 15:08:53.399 ServerApp] No such file or directory: konagai/気圧の描画.ipynb
+[W 2022-05-27 15:08:53.400 ServerApp] 404 GET /api/contents/konagai/%E6%B0%97%E5%9C%A7%E3%81%AE%E6%8F%8F%E7%94%BB.ipynb?content=0&1653631213090 (::1) 1.11ms referer=http://localhost:8886/lab
+[W 2022-05-27 15:08:53.848 ServerApp] Notebook Untitled.ipynb is not trusted
+[I 2022-05-27 15:08:54.227 ServerApp] Kernel started: d179f7a5-fb92-4b19-87ad-96fdcaaaa4e6
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 82071c17-1106-4dd9-8bea-2259a61ea5b9
+[W 2022-05-27 15:08:59.889 ServerApp] Notebook 気圧2.ipynb is not trusted
+[I 2022-05-27 15:09:01.195 ServerApp] Kernel started: 2728012c-4c3b-46f0-a507-554f5b09a01f
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: b9e7aa8d-3fed-439e-be78-c7d2372d7baf
+[I 2022-05-27 15:11:01.130 ServerApp] Saving file at /気圧2.ipynb
+[W 2022-05-27 15:11:01.131 ServerApp] Notebook 気圧2.ipynb is not trusted
+[I 2022-05-27 15:13:14.170 ServerApp] Saving file at /気圧2.ipynb
+[W 2022-05-27 15:13:14.171 ServerApp] Notebook 気圧2.ipynb is not trusted
+[I 2022-05-27 15:15:25.537 ServerApp] Saving file at /気圧2.ipynb
+[W 2022-05-27 15:15:25.537 ServerApp] Notebook 気圧2.ipynb is not trusted
+[I 2022-05-27 15:15:31.450 ServerApp] Saving file at /気圧2.ipynb
+[W 2022-05-27 15:15:31.450 ServerApp] Notebook 気圧2.ipynb is not trusted
+[I 2022-05-27 15:23:32.584 ServerApp] Saving file at /気圧2.ipynb
+[W 2022-05-27 15:23:32.585 ServerApp] Notebook 気圧2.ipynb is not trusted
+[I 2022-05-27 15:25:33.660 ServerApp] Saving file at /気圧2.ipynb
+[W 2022-05-27 15:25:33.661 ServerApp] Notebook 気圧2.ipynb is not trusted
+[I 2022-05-27 15:27:34.295 ServerApp] Saving file at /気圧2.ipynb
+[W 2022-05-27 15:27:34.295 ServerApp] Notebook 気圧2.ipynb is not trusted
+[I 2022-05-27 15:29:35.384 ServerApp] Saving file at /気圧2.ipynb
+[W 2022-05-27 15:29:35.384 ServerApp] Notebook 気圧2.ipynb is not trusted
+[I 2022-05-27 15:31:52.103 ServerApp] Saving file at /気圧2.ipynb
+[W 2022-05-27 15:31:52.103 ServerApp] Notebook 気圧2.ipynb is not trusted
+[I 2022-05-27 15:36:42.763 ServerApp] Saving file at /気圧2.ipynb
+[W 2022-05-27 15:36:42.764 ServerApp] Notebook 気圧2.ipynb is not trusted
+[I 2022-05-27 15:46:43.906 ServerApp] Saving file at /気圧2.ipynb
+[W 2022-05-27 15:46:43.906 ServerApp] Notebook 気圧2.ipynb is not trusted
+[I 2022-05-27 15:48:44.813 ServerApp] Saving file at /気圧2.ipynb
+[W 2022-05-27 15:48:44.813 ServerApp] Notebook 気圧2.ipynb is not trusted
+[I 2022-05-27 15:50:45.347 ServerApp] Saving file at /気圧2.ipynb
+[W 2022-05-27 15:50:45.348 ServerApp] Notebook 気圧2.ipynb is not trusted
+[I 2022-05-27 15:52:03.523 ServerApp] Saving file at /気圧2.ipynb
+[W 2022-05-27 15:52:03.523 ServerApp] Notebook 気圧2.ipynb is not trusted
+[I 2022-05-27 15:53:17.420 ServerApp] Saving file at /気圧2.ipynb
+[W 2022-05-27 15:53:17.421 ServerApp] Notebook 気圧2.ipynb is not trusted
+[I 2022-05-27 15:59:56.869 ServerApp] Saving file at /気圧2.ipynb
+[W 2022-05-27 15:59:56.869 ServerApp] Notebook 気圧2.ipynb is not trusted
+[I 2022-05-27 17:09:32.559 ServerApp] Saving file at /気圧2.ipynb
+[W 2022-05-27 17:09:32.560 ServerApp] Notebook 気圧2.ipynb is not trusted
+[I 2022-05-27 17:11:33.175 ServerApp] Saving file at /気圧2.ipynb
+[W 2022-05-27 17:11:33.176 ServerApp] Notebook 気圧2.ipynb is not trusted
+[I 2022-05-27 17:13:34.141 ServerApp] Saving file at /気圧2.ipynb
+[W 2022-05-27 17:13:34.141 ServerApp] Notebook 気圧2.ipynb is not trusted
+[I 2022-05-27 17:15:35.081 ServerApp] Saving file at /気圧2.ipynb
+[W 2022-05-27 17:15:35.081 ServerApp] Notebook 気圧2.ipynb is not trusted
+[I 2022-05-27 17:17:36.035 ServerApp] Saving file at /気圧2.ipynb
+[I 2022-05-27 17:18:54.465 ServerApp] Creating new notebook in 
+[I 2022-05-27 17:18:54.934 ServerApp] Kernel started: b498e565-60a0-455a-8a1b-79bf751d2f08
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 6c7b631c-3b1a-4f5a-b9d9-6c906b5031a1
+[I 2022-05-27 17:19:36.587 ServerApp] Saving file at /気圧2.ipynb
+[I 2022-05-27 17:20:55.337 ServerApp] Saving file at /Untitled5.ipynb
+[I 2022-05-27 17:22:37.188 ServerApp] Saving file at /Untitled5.ipynb
+[I 2022-05-27 17:24:37.393 ServerApp] Saving file at /Untitled5.ipynb
+[I 2022-05-27 17:26:37.569 ServerApp] Saving file at /Untitled5.ipynb
+[I 2022-05-27 17:28:17.766 ServerApp] Saving file at /Untitled5.ipynb
+[I 2022-05-27 17:29:19.629 ServerApp] Saving file at /Untitled5.ipynb
+[I 2022-05-27 17:30:00.976 ServerApp] Saving file at /Untitled5.ipynb
+[I 2022-05-27 17:30:29.332 ServerApp] Saving file at /気圧2.ipynb
+[I 2022-05-27 17:31:13.524 ServerApp] Saving file at /Untitled5.ipynb
+[I 2022-05-27 17:31:21.433 ServerApp] Saving file at /Untitled5.ipynb
+[W 2022-05-27 17:35:31.885 ServerApp] WebSocket ping timeout after 119901 ms.
+[I 2022-05-27 17:35:36.888 ServerApp] Starting buffering for 2728012c-4c3b-46f0-a507-554f5b09a01f:58bf17aa-9ace-4be0-b4e2-1e901ad186f3
+[W 2022-05-27 17:35:54.964 ServerApp] WebSocket ping timeout after 119946 ms.
+[W 2022-05-27 17:35:55.401 ServerApp] WebSocket ping timeout after 116105 ms.
+[I 2022-05-27 17:35:59.966 ServerApp] Starting buffering for d179f7a5-fb92-4b19-87ad-96fdcaaaa4e6:2052d7bd-dd94-4e5a-b093-a20c4746b1bf
+[I 2022-05-27 17:36:00.402 ServerApp] Starting buffering for b498e565-60a0-455a-8a1b-79bf751d2f08:5ed33fa5-f26b-4743-8a56-7db71cb7cc93
+[W 2022-05-31 13:53:59.376 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2022-05-31 13:54:03.688 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2022-05-31 13:54:06.274 ServerApp] Notebook 気圧2.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: eac6e16a-3601-4a97-bd0d-c0a83cc73b41
+[W 2022-05-31 13:54:50.114 ServerApp] Notebook 雲海10月.ipynb is not trusted
+[I 2022-05-31 13:54:51.022 ServerApp] Kernel started: 9c8e1b06-14f5-4cbb-955a-bd9dd2d26a01
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 64d6f681-536d-4b5c-b6c2-bf0a4eb716ae
+[W 2022-05-31 13:57:40.743 ServerApp] Notebook 気圧2.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 1c779ed9-a542-47e1-85b1-addbac7b4353
+[I 2022-05-31 13:58:50.992 ServerApp] Saving file at /雲海10月.ipynb
+[W 2022-05-31 13:58:50.992 ServerApp] Notebook 雲海10月.ipynb is not trusted
+[W 2022-05-31 13:59:22.077 ServerApp] Notebook 雲海5月.ipynb is not trusted
+[I 2022-05-31 13:59:22.758 ServerApp] Kernel started: 485f2ca0-a0e8-48fc-8ac3-570813d060e9
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 52f86446-825d-4de6-beff-f0cda37a73ab
+[I 2022-05-31 14:00:50.891 ServerApp] Creating new notebook in 
+[I 2022-05-31 14:00:51.396 ServerApp] Saving file at /雲海10月.ipynb
+[W 2022-05-31 14:00:51.396 ServerApp] Notebook 雲海10月.ipynb is not trusted
+[I 2022-05-31 14:00:51.575 ServerApp] Kernel started: 3592c3c9-2613-4416-be77-75123e608992
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 3bd0cbe0-69a3-46d6-8488-73e4b68e9f27
+[I 2022-05-31 14:01:07.925 ServerApp] Creating new directory in /Untitled Folder
+[I 2022-05-31 14:01:08.599 ServerApp] Creating new directory in /Untitled Folder
+[W 2022-05-31 14:01:08.744 ServerApp] 409 PATCH /api/contents/Untitled%20Folder/Untitled%20Folder?1653972735445 (::1): File already exists: Untitled Folder/Untitled Folder 1
+[W 2022-05-31 14:01:08.745 ServerApp] File already exists: Untitled Folder/Untitled Folder 1
+[W 2022-05-31 14:01:08.745 ServerApp] 409 PATCH /api/contents/Untitled%20Folder/Untitled%20Folder?1653972735445 (::1) 1.32ms referer=http://localhost:8886/lab/workspaces/auto-k/tree/Untitled5.ipynb
+[I 2022-05-31 14:01:22.817 ServerApp] Saving file at /雲海5月.ipynb
+[W 2022-05-31 14:01:22.817 ServerApp] Notebook 雲海5月.ipynb is not trusted
+[W 2022-05-31 14:01:39.476 ServerApp] delete /Untitled Folder
+[W 2022-05-31 14:01:39.476 ServerApp] Skipping trash for /mnt/meteo-hdd02/konagai/Untitled Folder, on different device to home directory
+[W 2022-05-31 14:01:39.477 ServerApp] 400 DELETE /api/contents/Untitled%20Folder?1653972766179 (::1): Directory /mnt/meteo-hdd02/konagai/Untitled Folder not empty
+[W 2022-05-31 14:01:39.477 ServerApp] Directory /mnt/meteo-hdd02/konagai/Untitled Folder not empty
+[W 2022-05-31 14:01:39.477 ServerApp] 400 DELETE /api/contents/Untitled%20Folder?1653972766179 (::1) 1.97ms referer=http://localhost:8886/lab/workspaces/auto-k/tree/Untitled5.ipynb
+[I 2022-05-31 14:02:51.360 ServerApp] Saving file at /Untitled5.ipynb
+[I 2022-05-31 14:04:51.544 ServerApp] Saving file at /Untitled5.ipynb
+[I 2022-05-31 14:04:51.994 ServerApp] Saving file at /雲海10月.ipynb
+[W 2022-05-31 14:04:51.994 ServerApp] Notebook 雲海10月.ipynb is not trusted
+[I 2022-05-31 14:05:23.721 ServerApp] Saving file at /雲海5月.ipynb
+[W 2022-05-31 14:05:23.722 ServerApp] Notebook 雲海5月.ipynb is not trusted
+[I 2022-05-31 14:06:36.466 ServerApp] Saving file at /雲海10月.ipynb
+[W 2022-05-31 14:06:36.467 ServerApp] Notebook 雲海10月.ipynb is not trusted
+[I 2022-05-31 14:07:20.563 ServerApp] Saving file at /雲海10月.ipynb
+[W 2022-05-31 14:07:20.564 ServerApp] Notebook 雲海10月.ipynb is not trusted
+[I 2022-05-31 14:11:28.939 ServerApp] Creating new notebook in 
+[I 2022-05-31 14:11:29.534 ServerApp] Kernel started: ca89b4ac-f74c-4caa-881e-bf8689cfe302
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 1dfed613-b13f-4f2c-b670-a5ad915fef13
+[I 2022-05-31 14:13:29.502 ServerApp] Saving file at /Untitled6.ipynb
+[I 2022-05-31 14:15:08.757 ServerApp] Saving file at /Untitled6.ipynb
+[I 2022-05-31 14:17:08.959 ServerApp] Saving file at /Untitled6.ipynb
+[I 2022-05-31 14:19:09.126 ServerApp] Saving file at /Untitled6.ipynb
+[I 2022-05-31 14:20:18.987 ServerApp] Saving file at /気圧2.ipynb
+[W 2022-05-31 14:20:18.987 ServerApp] Notebook 気圧2.ipynb is not trusted
+[I 2022-05-31 14:20:19.210 ServerApp] Saving file at /Untitled6.ipynb
+[I 2022-05-31 14:21:49.409 ServerApp] Saving file at /Untitled6.ipynb
+[W 2022-05-31 14:24:54.679 ServerApp] Notebook 気圧1か月平均.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 77c4d832-efa4-4d73-8d9c-870ecc15d3f4
+[I 2022-05-31 14:28:56.770 ServerApp] Saving file at /気圧1か月平均.ipynb
+[I 2022-05-31 14:29:51.100 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-05-31 14:34:32.795 ServerApp] Creating new notebook in 
+[I 2022-05-31 14:34:34.112 ServerApp] Kernel started: c5bf1143-ce3f-48e7-b453-face2985bf2d
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 6b8cec27-f9ab-46dc-95d6-7d8f7925082b
+[I 2022-05-31 14:36:33.884 ServerApp] Saving file at /Untitled6.ipynb
+[I 2022-05-31 14:38:34.175 ServerApp] Saving file at /Untitled6.ipynb
+[I 2022-05-31 14:43:52.558 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-05-31 14:44:34.599 ServerApp] Saving file at /Untitled6.ipynb
+[I 2022-05-31 14:50:26.364 ServerApp] Saving file at /Untitled6.ipynb
+[I 2022-05-31 15:03:54.652 ServerApp] Saving file at /気圧1年平均基本.ipynb
+[I 2022-05-31 15:28:53.377 ServerApp] Creating new notebook in 
+[I 2022-05-31 15:28:54.322 ServerApp] Kernel started: 162fd03b-d3c3-4d50-acef-4ec5d65911b0
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: a6ab0946-d847-4d06-9965-25e92a147ddf
+[I 2022-05-31 15:30:44.294 ServerApp] Saving file at /Untitled5.ipynb
+[I 2022-05-31 15:30:44.959 ServerApp] Saving file at /Untitled6.ipynb
+[I 2022-05-31 16:29:45.085 ServerApp] Saving file at /気圧2.ipynb
+[W 2022-05-31 16:29:45.085 ServerApp] Notebook 気圧2.ipynb is not trusted
+[I 2022-05-31 16:31:45.815 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-05-31 16:34:23.423 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-05-31 16:39:01.648 ServerApp] Saving file at /気圧1年平均基本.ipynb
+[I 2022-05-31 16:44:25.510 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-05-31 16:46:26.979 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-05-31 17:02:32.022 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-05-31 17:04:32.236 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-05-31 17:06:32.435 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-05-31 17:10:33.259 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-05-31 17:26:39.001 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-05-31 17:28:39.193 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-05-31 17:30:39.574 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-05-31 17:32:39.726 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-05-31 17:42:43.338 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-05-31 17:52:47.567 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-05-31 17:54:47.693 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-05-31 17:56:48.583 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-05-31 17:58:05.433 ServerApp] Creating new notebook in 
+[I 2022-05-31 17:58:06.265 ServerApp] Kernel started: 7b5bbe9e-25cb-4892-be71-8bc5ec131c0d
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 2db06eba-6426-4262-ad79-f4f5b6c98f22
+[I 2022-05-31 17:58:29.435 ServerApp] Saving file at /Untitled6.ipynb
+[I 2022-05-31 17:58:48.713 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-05-31 18:06:49.398 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-05-31 18:08:50.160 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-05-31 18:10:50.548 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-05-31 18:12:50.789 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-05-31 18:14:51.041 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-05-31 18:16:51.289 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-05-31 18:17:14.255 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-05-31 18:21:14.463 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-05-31 18:25:15.488 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-05-31 18:27:16.464 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-05-31 18:30:48.560 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-05-31 18:32:48.741 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-05-31 18:41:22.997 ServerApp] Creating new notebook in 
+[I 2022-05-31 18:41:23.690 ServerApp] Kernel started: 06fd4a22-3a65-4339-83d5-8d44f0865587
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 2eb38c86-3fca-473d-b2c3-07e8f2ef058f
+[I 2022-05-31 18:41:31.457 ServerApp] Saving file at /Untitled7.ipynb
+[I 2022-05-31 18:42:51.505 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-05-31 18:44:51.742 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-05-31 18:48:51.908 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-05-31 18:50:22.361 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-05-31 18:52:22.573 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-05-31 18:53:18.735 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-05-31 18:55:18.929 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-05-31 18:55:26.775 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-05-31 18:57:21.345 ServerApp] Starting buffering for 7b5bbe9e-25cb-4892-be71-8bc5ec131c0d:15ee742c-a99a-447e-8f4e-b5eb41a8bf35
+[I 2022-05-31 18:57:21.346 ServerApp] Starting buffering for ca89b4ac-f74c-4caa-881e-bf8689cfe302:72b5e342-5485-4bd7-8018-dd40fc390a8b
+[I 2022-05-31 18:57:21.346 ServerApp] Starting buffering for b498e565-60a0-455a-8a1b-79bf751d2f08:1d9b8b50-b3ee-4a54-9c7d-c26a62235132
+[I 2022-05-31 18:57:21.347 ServerApp] Starting buffering for 485f2ca0-a0e8-48fc-8ac3-570813d060e9:64a29255-5eb0-4ae1-8756-38fea023a71c
+[I 2022-05-31 18:57:21.347 ServerApp] Starting buffering for 9c8e1b06-14f5-4cbb-955a-bd9dd2d26a01:8d75e0ab-236f-485f-9266-1ca3e9567f80
+[I 2022-05-31 18:57:21.347 ServerApp] Starting buffering for 2728012c-4c3b-46f0-a507-554f5b09a01f:85eeb999-373c-4805-96ad-4efbf16f1e32
+[I 2022-05-31 18:57:21.348 ServerApp] Starting buffering for 3592c3c9-2613-4416-be77-75123e608992:9a5e717a-5f7e-4205-b6c7-42ee35d797da
+[I 2022-05-31 18:57:21.348 ServerApp] Starting buffering for c5bf1143-ce3f-48e7-b453-face2985bf2d:0b8930f8-e015-418e-aa9b-bd8df381f53a
+[I 2022-05-31 18:57:21.348 ServerApp] Starting buffering for 162fd03b-d3c3-4d50-acef-4ec5d65911b0:bce37ca6-588f-408c-9fab-b3f5d2d92497
+[I 2022-05-31 18:57:21.348 ServerApp] Starting buffering for 06fd4a22-3a65-4339-83d5-8d44f0865587:be354ed6-b9c5-4792-b57a-9b622383acf8
+[W 2022-06-03 16:15:08.055 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2022-06-03 16:15:12.456 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2022-06-03 16:15:14.003 ServerApp] Notebook 気圧1か月平均.ipynb is not trusted
+[W 2022-06-03 16:15:14.067 ServerApp] Notebook 気圧2.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 826476f0-bc68-44b4-b407-d19ef8ec8376
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 795d8bf6-d972-42af-a48c-5fe0fe055f44
+[W 2022-06-03 16:15:33.839 ServerApp] Notebook 気圧一か月平均基本.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: a32494d4-f3f3-4e39-9c79-fcf86c46a564
+[I 2022-06-03 16:17:34.359 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-06-03 16:27:35.857 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-06-03 16:33:38.693 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-06-03 16:39:40.439 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-06-03 16:43:17.829 ServerApp] Saving file at /気圧1か月平均.ipynb
+[W 2022-06-03 16:43:17.829 ServerApp] Notebook 気圧1か月平均.ipynb is not trusted
+[I 2022-06-03 16:47:18.036 ServerApp] Saving file at /気圧1か月平均.ipynb
+[I 2022-06-03 16:49:18.249 ServerApp] Saving file at /気圧1か月平均.ipynb
+[I 2022-06-03 16:50:51.301 ServerApp] Saving file at /気圧1か月平均.ipynb
+[I 2022-06-03 16:57:22.664 ServerApp] Saving file at /気圧2.ipynb
+[W 2022-06-03 16:57:22.665 ServerApp] Notebook 気圧2.ipynb is not trusted
+[I 2022-06-03 16:59:27.562 ServerApp] Saving file at /気圧2.ipynb
+[W 2022-06-03 16:59:27.562 ServerApp] Notebook 気圧2.ipynb is not trusted
+[I 2022-06-03 17:30:06.594 ServerApp] Creating new notebook in 
+[I 2022-06-03 17:30:07.488 ServerApp] Kernel started: 836d657a-7318-4e86-8cb1-0f3202b7b88c
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: de1ea3c5-c5dc-4f88-9683-1a4a85f743d6
+[I 2022-06-03 17:32:07.325 ServerApp] Saving file at /Untitled8.ipynb
+[I 2022-06-03 17:44:12.799 ServerApp] Starting buffering for 2728012c-4c3b-46f0-a507-554f5b09a01f:6c3febf9-9c6d-4c4a-903a-961c3895fbb6
+[I 2022-06-03 17:44:12.815 ServerApp] Starting buffering for b498e565-60a0-455a-8a1b-79bf751d2f08:a3d81697-d0bc-410a-8a1b-68a11f3ce9a9
+[I 2022-06-03 17:44:12.816 ServerApp] Starting buffering for ca89b4ac-f74c-4caa-881e-bf8689cfe302:fd1efa73-7476-49c4-8413-155783e1e40e
+[I 2022-06-03 17:44:12.816 ServerApp] Starting buffering for 836d657a-7318-4e86-8cb1-0f3202b7b88c:6cc69632-6013-4aa8-bbc2-bbdd1f8df6fd
+[W 2022-06-03 17:44:51.263 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2022-06-03 17:44:52.798 ServerApp] Notebook 気圧2.ipynb is not trusted
+[W 2022-06-03 17:44:52.831 ServerApp] Notebook 気圧一か月平均基本.ipynb is not trusted
+[W 2022-06-03 17:44:52.846 ServerApp] Notebook 気圧1か月平均.ipynb is not trusted
+[W 2022-06-03 17:44:52.857 ServerApp] Notebook Untitled8.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: b4c59692-f851-45fc-8160-22195b429c65
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 36d08158-2ed6-4137-af58-d71c4c8f5557
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 7ec1917c-1430-4097-8330-e8996415dd29
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: d4fbe473-c7a3-409c-ae28-5024e1ea47a1
+[I 2022-06-03 18:02:45.914 ServerApp] Saving file at /Untitled8.ipynb
+[I 2022-06-03 18:04:46.131 ServerApp] Saving file at /Untitled8.ipynb
+[I 2022-06-03 18:06:46.224 ServerApp] Saving file at /気圧2.ipynb
+[W 2022-06-03 18:06:46.225 ServerApp] Notebook 気圧2.ipynb is not trusted
+[I 2022-06-03 18:06:46.379 ServerApp] Saving file at /Untitled8.ipynb
+[I 2022-06-03 18:08:08.343 ServerApp] Starting buffering for 836d657a-7318-4e86-8cb1-0f3202b7b88c:af4f4053-be74-4afd-a08d-ee77a761ae51
+[I 2022-06-03 18:08:08.358 ServerApp] Starting buffering for 2728012c-4c3b-46f0-a507-554f5b09a01f:a02933c6-88b4-464f-8b5b-43c6e591575f
+[I 2022-06-03 18:08:08.358 ServerApp] Starting buffering for ca89b4ac-f74c-4caa-881e-bf8689cfe302:780efedd-05c5-4bd9-b980-aed831ddc1a2
+[I 2022-06-03 18:08:08.358 ServerApp] Starting buffering for b498e565-60a0-455a-8a1b-79bf751d2f08:3c40dbdc-db24-431f-a81b-423ec49d7192
+[W 2022-06-03 18:09:51.070 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2022-06-03 18:09:53.062 ServerApp] Notebook 気圧1か月平均.ipynb is not trusted
+[W 2022-06-03 18:09:53.104 ServerApp] Notebook 気圧2.ipynb is not trusted
+[W 2022-06-03 18:09:53.144 ServerApp] Notebook Untitled8.ipynb is not trusted
+[W 2022-06-03 18:09:53.320 ServerApp] Notebook 気圧一か月平均基本.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 4f06b0f7-b34b-42ed-9804-153c1d334597
+[IPKernelApp] WARNING | No such comm: 373a4fa5-d0bc-46e8-9df4-495e1a6f99be
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 8647a1a5-dac8-4dd4-890e-921f1b9cc44e
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: d0255343-7f72-44fe-8776-1b8eb0287b88
+[I 2022-06-03 18:44:43.210 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-06-03 18:44:43.502 ServerApp] Saving file at /気圧2.ipynb
+[W 2022-06-03 18:44:43.503 ServerApp] Notebook 気圧2.ipynb is not trusted
+[I 2022-06-03 18:46:43.725 ServerApp] Saving file at /気圧1か月平均.ipynb
+[W 2022-06-03 18:46:43.726 ServerApp] Notebook 気圧1か月平均.ipynb is not trusted
+[I 2022-06-03 19:00:48.009 ServerApp] Saving file at /Untitled8.ipynb
+[I 2022-06-03 19:02:48.185 ServerApp] Saving file at /Untitled8.ipynb
+[I 2022-06-03 19:04:48.579 ServerApp] Saving file at /気圧2.ipynb
+[W 2022-06-03 19:04:48.579 ServerApp] Notebook 気圧2.ipynb is not trusted
+[I 2022-06-03 19:04:48.859 ServerApp] Saving file at /Untitled8.ipynb
+[I 2022-06-03 19:04:59.567 ServerApp] Saving file at /Untitled8.ipynb
+[I 2022-06-03 19:06:48.421 ServerApp] Saving file at /気圧1か月平均.ipynb
+[I 2022-06-03 19:08:48.653 ServerApp] Saving file at /気圧1か月平均.ipynb
+[I 2022-06-03 19:10:49.437 ServerApp] Saving file at /気圧1か月平均.ipynb
+[I 2022-06-03 19:22:52.417 ServerApp] Saving file at /気圧1か月平均.ipynb
+[I 2022-06-03 19:26:52.837 ServerApp] Saving file at /気圧1か月平均.ipynb
+[I 2022-06-03 19:28:53.081 ServerApp] Saving file at /気圧1か月平均.ipynb
+[W 2022-06-03 19:40:42.814 ServerApp] WebSocket ping timeout after 119887 ms.
+[W 2022-06-03 19:40:42.854 ServerApp] WebSocket ping timeout after 119910 ms.
+[W 2022-06-03 19:40:42.943 ServerApp] WebSocket ping timeout after 119980 ms.
+[W 2022-06-03 19:40:43.039 ServerApp] WebSocket ping timeout after 119976 ms.
+[I 2022-06-03 19:40:47.816 ServerApp] Starting buffering for b498e565-60a0-455a-8a1b-79bf751d2f08:8573b526-4612-400e-8dc4-d81e163bf3ed
+[I 2022-06-03 19:40:47.855 ServerApp] Starting buffering for 2728012c-4c3b-46f0-a507-554f5b09a01f:5e840b25-95f8-41d8-ab73-6a93fd544793
+[I 2022-06-03 19:40:47.944 ServerApp] Starting buffering for ca89b4ac-f74c-4caa-881e-bf8689cfe302:cb72274a-89db-40d3-84f8-b056a2eb9088
+[I 2022-06-03 19:40:48.041 ServerApp] Starting buffering for 836d657a-7318-4e86-8cb1-0f3202b7b88c:4e606286-ea77-41ca-ad90-457d9e0569b8
+[W 2022-06-04 17:12:40.463 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2022-06-04 17:12:41.072 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2022-06-04 17:12:54.055 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2022-06-04 17:12:56.301 ServerApp] Notebook 気圧2.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 78aaba29-a22e-40e7-9026-d5117e0e58f1
+[W 2022-06-04 17:13:08.867 ServerApp] Notebook 気圧1か月平均.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 2524dc23-4052-467d-92d1-2aa41fc80730
+[W 2022-06-04 17:13:23.180 ServerApp] Notebook 気圧一か月平均基本.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: f4205428-c77c-43f8-8552-aca9ad9908c7
+[W 2022-06-04 17:13:31.956 ServerApp] Notebook 気圧1年平均基本.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 647c5e56-587d-45bb-94a1-6b3055bc1717
+[W 2022-06-04 17:15:53.659 ServerApp] Notebook 気圧2.ipynb is not trusted
+[W 2022-06-04 17:15:53.691 ServerApp] Notebook 気圧一か月平均基本.ipynb is not trusted
+[W 2022-06-04 17:15:53.707 ServerApp] Notebook 気圧1か月平均.ipynb is not trusted
+[W 2022-06-04 17:15:53.728 ServerApp] Notebook Untitled8.ipynb is not trusted
+[I 2022-06-04 17:15:59.427 ServerApp] Starting buffering for 836d657a-7318-4e86-8cb1-0f3202b7b88c:1dce6c6b-d004-4e99-a8b4-0797f506396b
+[I 2022-06-04 17:19:25.472 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-06-04 17:21:27.068 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-06-04 17:23:27.591 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-06-04 17:23:45.967 ServerApp] Kernel restarted: ca89b4ac-f74c-4caa-881e-bf8689cfe302
+[I 2022-06-04 17:23:46.124 ServerApp] Starting buffering for ca89b4ac-f74c-4caa-881e-bf8689cfe302:0f70fabc-6575-4105-8618-e31ad0f1ee53
+[I 2022-06-04 17:23:46.276 ServerApp] Restoring connection for ca89b4ac-f74c-4caa-881e-bf8689cfe302:0f70fabc-6575-4105-8618-e31ad0f1ee53
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 66556652-a85e-47ed-8427-ec97dde4f11e
+[I 2022-06-04 17:25:28.202 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-06-04 17:27:30.676 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-06-04 17:29:30.987 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-06-04 17:31:34.396 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-06-04 17:33:42.296 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-06-04 17:35:43.393 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-06-04 17:37:45.013 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-06-04 17:39:46.583 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-06-04 17:41:47.829 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-06-04 17:45:49.511 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-06-04 17:47:10.890 ServerApp] Saving file at /気圧1か月平均.ipynb
+[W 2022-06-04 17:47:10.891 ServerApp] Notebook 気圧1か月平均.ipynb is not trusted
+[I 2022-06-04 17:47:33.665 ServerApp] Saving file at /気圧1年平均基本.ipynb
+[I 2022-06-04 17:49:50.091 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-06-04 17:51:51.640 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-06-04 17:54:00.320 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-06-04 17:55:19.172 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 648b6e79-bf86-4ccc-b140-227e483a24b5
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 8c818c8e-594b-41bf-8f87-69e67ec9d2f3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: aa0925e7-003c-430a-a8ba-c14556534589
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: bc590043-08b4-4fbd-9482-0ebf0a98ea6b
+[I 2022-06-04 17:59:20.593 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-06-04 18:01:34.369 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-06-04 18:03:57.844 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-06-04 18:05:59.361 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-06-04 18:08:00.246 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-06-04 18:10:00.953 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-06-04 18:12:05.479 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-06-04 18:14:06.726 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-06-04 18:16:09.431 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-06-04 18:18:11.193 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-06-04 18:20:11.773 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-06-04 18:22:12.072 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-06-04 18:24:14.496 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-06-04 18:26:15.277 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-06-04 18:28:16.447 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-06-04 18:30:17.360 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-06-04 18:31:13.147 ServerApp] Saving file at /気圧1か月平均.ipynb
+[W 2022-06-04 18:31:13.147 ServerApp] Notebook 気圧1か月平均.ipynb is not trusted
+[I 2022-06-04 18:33:13.794 ServerApp] Saving file at /気圧1か月平均.ipynb
+[W 2022-06-04 18:33:13.795 ServerApp] Notebook 気圧1か月平均.ipynb is not trusted
+[I 2022-06-04 18:35:15.400 ServerApp] Saving file at /気圧1か月平均.ipynb
+[W 2022-06-04 18:35:15.400 ServerApp] Notebook 気圧1か月平均.ipynb is not trusted
+[I 2022-06-04 18:37:20.551 ServerApp] Saving file at /気圧1か月平均.ipynb
+[W 2022-06-04 18:37:20.551 ServerApp] Notebook 気圧1か月平均.ipynb is not trusted
+[I 2022-06-04 18:39:20.824 ServerApp] Saving file at /気圧一か月平均基本.ipynb
+[I 2022-06-04 18:39:21.992 ServerApp] Saving file at /気圧1か月平均.ipynb
+[W 2022-06-04 18:39:21.992 ServerApp] Notebook 気圧1か月平均.ipynb is not trusted
+[I 2022-06-04 18:41:14.353 ServerApp] Starting buffering for 836d657a-7318-4e86-8cb1-0f3202b7b88c:213ec8a4-a4be-4d57-a107-32f7c7c4f9e7
+[I 2022-06-04 18:43:22.446 ServerApp] Saving file at /気圧1か月平均.ipynb
+[W 2022-06-04 18:43:22.446 ServerApp] Notebook 気圧1か月平均.ipynb is not trusted
+[I 2022-06-04 18:45:23.650 ServerApp] Saving file at /気圧1か月平均.ipynb
+[I 2022-06-04 18:47:24.289 ServerApp] Saving file at /気圧1か月平均.ipynb
+[I 2022-06-04 18:49:25.928 ServerApp] Saving file at /気圧1か月平均.ipynb
+[I 2022-06-04 18:51:27.184 ServerApp] Saving file at /気圧1か月平均.ipynb
+[I 2022-06-04 18:53:36.611 ServerApp] Saving file at /気圧1か月平均.ipynb
+[I 2022-06-04 18:55:42.957 ServerApp] Saving file at /気圧1か月平均.ipynb
+[I 2022-06-04 18:56:48.158 ServerApp] Saving file at /気圧1か月平均.ipynb
+[W 2022-06-04 18:59:29.126 ServerApp] WebSocket ping timeout after 119899 ms.
+[W 2022-06-04 18:59:33.361 ServerApp] WebSocket ping timeout after 119678 ms.
+[I 2022-06-04 18:59:34.127 ServerApp] Starting buffering for 2728012c-4c3b-46f0-a507-554f5b09a01f:5df46247-70ce-4815-adc4-8572af361291
+[I 2022-06-04 18:59:38.363 ServerApp] Starting buffering for c5bf1143-ce3f-48e7-b453-face2985bf2d:4d049e97-6c36-42ad-b652-c782aebf6344
+[W 2022-06-04 18:59:40.844 ServerApp] WebSocket ping timeout after 119805 ms.
+[I 2022-06-04 18:59:45.846 ServerApp] Starting buffering for b498e565-60a0-455a-8a1b-79bf751d2f08:c49ad350-2e19-41e2-b3cb-ca11d78ae2f1
+[W 2022-06-04 18:59:46.277 ServerApp] WebSocket ping timeout after 119872 ms.
+[I 2022-06-04 18:59:51.278 ServerApp] Starting buffering for ca89b4ac-f74c-4caa-881e-bf8689cfe302:0f70fabc-6575-4105-8618-e31ad0f1ee53
+[W 2022-06-04 19:01:59.445 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2022-06-04 19:02:01.502 ServerApp] Notebook 気圧1か月平均.ipynb is not trusted
+[W 2022-06-04 19:02:01.551 ServerApp] Notebook 気圧2.ipynb is not trusted
+[W 2022-06-04 19:02:01.602 ServerApp] Notebook 気圧一か月平均基本.ipynb is not trusted
+[W 2022-06-04 19:02:01.637 ServerApp] Notebook Untitled8.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 8e6b60cb-a1af-490d-a3ec-92c12ec3ca55
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: a1d3eb0a-ea87-4677-b6a5-6a5bbce35cdb
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 727c4c11-9626-4fec-a1e0-85cb2cd013a6
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 219a8956-e944-4f35-9f97-84636c3a7afe
+[I 2022-06-04 19:02:10.253 ServerApp] Saving file at /気圧1か月平均.ipynb
+[W 2022-06-04 19:02:10.254 ServerApp] Notebook 気圧1か月平均.ipynb is not trusted
+[W 2022-06-04 19:04:33.283 ServerApp] WebSocket ping timeout after 119844 ms.
+[W 2022-06-04 19:04:33.562 ServerApp] WebSocket ping timeout after 119856 ms.
+[W 2022-06-04 19:04:33.612 ServerApp] WebSocket ping timeout after 119671 ms.
+[W 2022-06-04 19:04:33.804 ServerApp] WebSocket ping timeout after 119236 ms.
+[I 2022-06-04 19:04:38.285 ServerApp] Starting buffering for b498e565-60a0-455a-8a1b-79bf751d2f08:e9e68f8f-f917-4f18-ad3c-ef3991743afd
+[I 2022-06-04 19:04:38.564 ServerApp] Starting buffering for 2728012c-4c3b-46f0-a507-554f5b09a01f:c77818c5-8eee-4435-993e-c8d79a6c1e83
+[I 2022-06-04 19:04:38.613 ServerApp] Starting buffering for ca89b4ac-f74c-4caa-881e-bf8689cfe302:db2f4895-35fb-4c7f-a755-3a1380141f84
+[I 2022-06-04 19:04:38.805 ServerApp] Starting buffering for 836d657a-7318-4e86-8cb1-0f3202b7b88c:b35d3020-e135-49f8-92c0-958d3a9ef275
+[W 2022-06-06 12:46:12.043 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2022-06-06 12:46:14.141 ServerApp] Notebook 気圧2.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: b40c5477-d407-4e95-9cfe-6e89913402f6
+[W 2022-06-06 12:46:20.470 ServerApp] Notebook 気圧一か月平均基本.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 621fc7ad-1208-4307-a313-b563c48e2439
+[W 2022-06-06 12:46:27.698 ServerApp] Notebook 高層天気図.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: f9b8247a-4a45-46b3-afae-256383d33eb0
+[I 2022-06-06 12:46:39.844 ServerApp] Starting buffering for 162fd03b-d3c3-4d50-acef-4ec5d65911b0:255e44f4-db6e-4bca-8f91-4663aa94799d
+[W 2022-06-06 12:46:42.173 ServerApp] Notebook 気圧1か月平均.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 5690cba6-c48a-4748-886c-6913223ace39
+[W 2022-06-06 12:46:46.247 ServerApp] Notebook 気圧1年平均基本.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 23626a39-712e-4410-9971-03b0d1c94274
+[I 2022-06-06 12:50:05.611 ServerApp] Creating new notebook in 
+[I 2022-06-06 12:50:06.090 ServerApp] Kernel started: 6de79082-8a47-476a-b2d2-eb756d78dc37
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 30340bda-4116-48c9-815e-54e921245452
+[I 2022-06-06 12:52:06.036 ServerApp] Saving file at /風のプロット.ipynb
+[I 2022-06-06 12:58:06.171 ServerApp] Saving file at /風のプロット.ipynb
+[I 2022-06-06 12:59:57.827 ServerApp] Saving file at /気圧1か月平均.ipynb
+[W 2022-06-06 12:59:57.828 ServerApp] Notebook 気圧1か月平均.ipynb is not trusted
+[I 2022-06-06 13:00:06.668 ServerApp] Saving file at /風のプロット.ipynb
+[I 2022-06-06 13:02:06.846 ServerApp] Saving file at /風のプロット.ipynb
+[I 2022-06-06 13:04:07.326 ServerApp] Saving file at /風のプロット.ipynb
+[I 2022-06-06 13:04:39.411 ServerApp] Saving file at /風のプロット.ipynb
+[I 2022-06-06 13:04:57.252 ServerApp] Creating new notebook in 
+[I 2022-06-06 13:04:57.710 ServerApp] Kernel started: 2ace96a7-cf29-4448-97c6-62055bc566a4
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 76d8a88b-ce20-4b94-ada6-0a08a616f5c5
+[I 2022-06-06 13:06:57.673 ServerApp] Saving file at /等高線のプロット.ipynb
+[I 2022-06-06 13:08:58.028 ServerApp] Saving file at /等高線のプロット.ipynb
+[I 2022-06-06 13:10:58.131 ServerApp] Saving file at /等高線のプロット.ipynb
+[I 2022-06-06 13:12:58.396 ServerApp] Saving file at /等高線のプロット.ipynb
+[I 2022-06-06 13:14:58.800 ServerApp] Saving file at /等高線のプロット.ipynb
+[I 2022-06-06 13:16:58.950 ServerApp] Saving file at /等高線のプロット.ipynb
+[I 2022-06-06 13:18:59.164 ServerApp] Saving file at /等高線のプロット.ipynb
+[I 2022-06-06 13:20:59.376 ServerApp] Saving file at /等高線のプロット.ipynb
+[I 2022-06-06 13:22:59.613 ServerApp] Saving file at /等高線のプロット.ipynb
+[I 2022-06-06 13:24:59.846 ServerApp] Saving file at /等高線のプロット.ipynb
+[I 2022-06-06 13:26:30.765 ServerApp] Starting buffering for ca89b4ac-f74c-4caa-881e-bf8689cfe302:5e4f1af7-81e7-44eb-8a8f-bd1440968d6e
+[I 2022-06-06 13:26:32.598 ServerApp] Saving file at /等高線のプロット.ipynb
+[I 2022-06-06 13:32:32.875 ServerApp] Saving file at /等高線のプロット.ipynb
+[I 2022-06-06 13:34:40.093 ServerApp] Saving file at /風のプロット.ipynb
+[W 2022-06-06 13:36:35.075 ServerApp] Notebook 気圧一か月平均基本.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: abed3c90-827a-4632-9c5b-820e5fc31400
+[I 2022-06-06 13:36:46.460 ServerApp] Creating new notebook in 
+[I 2022-06-06 13:36:47.343 ServerApp] Kernel started: ae19d548-7a8d-44a3-bac6-1aa2642964c5
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 5fa83b93-9423-4b6f-b0af-1bbbe88a680b
+[I 2022-06-06 13:38:46.931 ServerApp] Saving file at /当たりの日だけ取り出す.ipynb
+[I 2022-06-06 13:40:47.380 ServerApp] Saving file at /当たりの日だけ取り出す.ipynb
+[I 2022-06-06 13:42:47.557 ServerApp] Saving file at /当たりの日だけ取り出す.ipynb
+[I 2022-06-06 13:44:47.730 ServerApp] Saving file at /当たりの日だけ取り出す.ipynb
+[I 2022-06-06 13:46:47.948 ServerApp] Saving file at /当たりの日だけ取り出す.ipynb
+[I 2022-06-06 13:47:02.948 ServerApp] Saving file at /当たりの日だけ取り出す.ipynb
+[I 2022-06-06 13:49:03.166 ServerApp] Saving file at /当たりの日だけ取り出す.ipynb
+[I 2022-06-06 13:51:03.455 ServerApp] Saving file at /当たりの日だけ取り出す.ipynb
+[I 2022-06-06 13:53:03.681 ServerApp] Saving file at /当たりの日だけ取り出す.ipynb
+[I 2022-06-06 13:55:03.962 ServerApp] Saving file at /当たりの日だけ取り出す.ipynb
+[I 2022-06-06 13:57:04.191 ServerApp] Saving file at /当たりの日だけ取り出す.ipynb
+[I 2022-06-06 13:59:02.304 ServerApp] Saving file at /等高線のプロット.ipynb
+[I 2022-06-06 13:59:04.791 ServerApp] Saving file at /当たりの日だけ取り出す.ipynb
+[I 2022-06-06 16:56:33.731 ServerApp] Saving file at /等高線のプロット.ipynb
+[I 2022-06-06 17:06:33.900 ServerApp] Saving file at /等高線のプロット.ipynb
+[I 2022-06-06 17:08:34.480 ServerApp] Saving file at /等高線のプロット.ipynb
+[I 2022-06-06 17:12:34.441 ServerApp] Saving file at /風のプロット.ipynb
+[I 2022-06-06 17:14:35.199 ServerApp] Saving file at /風のプロット.ipynb
+[I 2022-06-06 17:18:35.456 ServerApp] Saving file at /風のプロット.ipynb
+[I 2022-06-06 17:20:36.224 ServerApp] Saving file at /風のプロット.ipynb
+[I 2022-06-06 17:24:36.336 ServerApp] Saving file at /当たりの日だけ取り出す.ipynb
+[I 2022-06-06 17:24:37.741 ServerApp] Saving file at /風のプロット.ipynb
+[I 2022-06-06 17:26:37.240 ServerApp] Saving file at /当たりの日だけ取り出す.ipynb
+[I 2022-06-06 17:28:37.764 ServerApp] Saving file at /等高線のプロット.ipynb
+[I 2022-06-06 17:30:37.655 ServerApp] Saving file at /当たりの日だけ取り出す.ipynb
+[I 2022-06-06 17:34:38.218 ServerApp] Saving file at /当たりの日だけ取り出す.ipynb
+[I 2022-06-06 17:36:38.607 ServerApp] Saving file at /当たりの日だけ取り出す.ipynb
+[I 2022-06-06 17:38:39.026 ServerApp] Saving file at /当たりの日だけ取り出す.ipynb
+[I 2022-06-06 17:42:40.775 ServerApp] Starting buffering for 2ace96a7-cf29-4448-97c6-62055bc566a4:138203cb-0163-4a91-97a1-5ce71de830ce
+[I 2022-06-06 17:42:40.775 ServerApp] Starting buffering for ca89b4ac-f74c-4caa-881e-bf8689cfe302:7408e828-28bd-4a3a-b1f8-6f92e9b72ba1
+[I 2022-06-06 17:42:40.776 ServerApp] Starting buffering for ae19d548-7a8d-44a3-bac6-1aa2642964c5:578a7845-1c41-4706-88b1-32f07a286129
+[I 2022-06-06 17:42:40.779 ServerApp] Starting buffering for 2728012c-4c3b-46f0-a507-554f5b09a01f:249697eb-4544-4c4a-baa5-ae3065ed9cb1
+[I 2022-06-06 17:42:40.780 ServerApp] Starting buffering for b498e565-60a0-455a-8a1b-79bf751d2f08:448be4b1-ea5f-48ce-9e4d-98238edd7077
+[I 2022-06-06 17:42:40.780 ServerApp] Starting buffering for c5bf1143-ce3f-48e7-b453-face2985bf2d:cf0b4195-b7ca-4eb8-8627-527014d40480
+[I 2022-06-06 17:42:40.780 ServerApp] Starting buffering for 6de79082-8a47-476a-b2d2-eb756d78dc37:86f0ecea-0363-4ad2-9fe9-fedf72bc7142
+[W 2022-06-06 17:42:53.027 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2022-06-06 17:42:55.271 ServerApp] Notebook 気圧一か月平均基本.ipynb is not trusted
+[W 2022-06-06 17:42:55.324 ServerApp] Notebook 気圧2.ipynb is not trusted
+[W 2022-06-06 17:42:55.372 ServerApp] Notebook 気圧1か月平均.ipynb is not trusted
+[W 2022-06-06 17:42:55.405 ServerApp] Notebook Untitled8.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: b480f880-a5be-46c2-8376-1aee21390a23
+[IPKernelApp] WARNING | No such comm: e8b7f91e-7ed8-4eb1-9b67-cbbc210f82f6
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 620b7f4b-a1f6-431a-9a20-0d72f535475e
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 71135113-d531-45b3-a72e-4ccd7b1c5e5f
+[W 2022-06-06 17:43:07.525 ServerApp] Notebook 当たりの日だけ取り出す.ipynb is not trusted
+[I 2022-06-06 17:43:08.533 ServerApp] Discarding 46 buffered messages for ae19d548-7a8d-44a3-bac6-1aa2642964c5:578a7845-1c41-4706-88b1-32f07a286129
+[I 2022-06-06 17:44:24.031 ServerApp] Creating new notebook in 
+[I 2022-06-06 17:44:25.214 ServerApp] Kernel started: bcc1eae3-c7b5-469a-b74d-f5752e76203f
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 07ceeecf-7b47-4e78-ab39-61df58c92433
+[I 2022-06-06 17:45:08.278 ServerApp] Saving file at /当たりの日だけ取り出す.ipynb
+[W 2022-06-06 17:45:08.278 ServerApp] Notebook 当たりの日だけ取り出す.ipynb is not trusted
+[I 2022-06-06 17:46:25.460 ServerApp] Saving file at /Untitled9.ipynb
+[I 2022-06-06 17:48:25.692 ServerApp] Saving file at /Untitled9.ipynb
+[I 2022-06-06 17:50:08.922 ServerApp] Saving file at /Untitled9.ipynb
+[W 2022-06-06 17:51:05.249 ServerApp] delete /当たりの日.png
+[W 2022-06-06 17:51:05.249 ServerApp] Skipping trash for /mnt/meteo-hdd02/konagai/当たりの日.png, on different device to home directory
+[I 2022-06-06 17:51:33.493 ServerApp] Starting buffering for ae19d548-7a8d-44a3-bac6-1aa2642964c5:d643e59d-c161-488a-a706-8347bb7d6f00
+[W 2022-06-06 17:52:08.188 ServerApp] Notebook 等高線のプロット.ipynb is not trusted
+[I 2022-06-06 17:52:09.191 ServerApp] Saving file at /当たり新ver.ipynb
+[W 2022-06-06 17:52:09.511 ServerApp] Notebook 風のプロット.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: c63bd54f-f19d-4e93-839f-4009a2f52e5d
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: e0bcc98e-cdba-4737-91a1-ee78c9c89c16
+[I 2022-06-06 17:53:01.585 ServerApp] Starting buffering for 836d657a-7318-4e86-8cb1-0f3202b7b88c:31c6ae1c-ca16-4811-ba27-49ece79a8156
+[I 2022-06-06 17:54:09.807 ServerApp] Saving file at /当たり新ver.ipynb
+[I 2022-06-06 17:56:10.208 ServerApp] Saving file at /当たり新ver.ipynb
+[I 2022-06-06 18:00:11.379 ServerApp] Saving file at /当たり新ver.ipynb
+[I 2022-06-06 18:04:11.766 ServerApp] Saving file at /当たり新ver.ipynb
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 643c9a88-3d81-42bf-8949-466d642a7dea
+[I 2022-06-06 18:06:12.499 ServerApp] Saving file at /当たり新ver.ipynb
+[I 2022-06-06 18:08:12.820 ServerApp] Saving file at /当たり新ver.ipynb
+[I 2022-06-06 18:10:13.063 ServerApp] Saving file at /当たり新ver.ipynb
+[I 2022-06-06 18:12:13.343 ServerApp] Saving file at /当たり新ver.ipynb
+[I 2022-06-06 18:14:14.519 ServerApp] Saving file at /当たり新ver.ipynb
+[I 2022-06-06 18:16:13.453 ServerApp] Saving file at /風のプロット.ipynb
+[I 2022-06-06 18:18:13.802 ServerApp] Saving file at /風のプロット.ipynb
+[I 2022-06-06 18:20:14.403 ServerApp] Saving file at /風のプロット.ipynb
+[I 2022-06-06 18:20:14.831 ServerApp] Saving file at /当たり新ver.ipynb
+[I 2022-06-06 18:20:16.990 ServerApp] Saving file at /当たり新ver.ipynb
+[I 2022-06-06 18:20:23.701 ServerApp] Starting buffering for 2ace96a7-cf29-4448-97c6-62055bc566a4:4384ab49-70bd-49da-b501-baa82e76e436
+[I 2022-06-06 18:20:23.701 ServerApp] Starting buffering for ca89b4ac-f74c-4caa-881e-bf8689cfe302:2eddff12-3e77-4061-9bb8-f4d0344cbb23
+[I 2022-06-06 18:20:23.702 ServerApp] Starting buffering for 2728012c-4c3b-46f0-a507-554f5b09a01f:a67caae5-b819-4570-a991-f4fe7f657383
+[I 2022-06-06 18:20:23.702 ServerApp] Starting buffering for b498e565-60a0-455a-8a1b-79bf751d2f08:c1fc900f-d3b2-478d-ae69-02892decb7d0
+[I 2022-06-06 18:20:23.702 ServerApp] Starting buffering for 6de79082-8a47-476a-b2d2-eb756d78dc37:30974afd-1dcd-41ad-a9cb-e0c17372ac41
+[I 2022-06-06 18:20:23.702 ServerApp] Starting buffering for bcc1eae3-c7b5-469a-b74d-f5752e76203f:503233b6-03f9-4e92-b899-d1693ca4cc70
+[W 2022-06-07 17:45:48.967 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2022-06-07 17:45:50.851 ServerApp] Notebook 気圧2.ipynb is not trusted
+[W 2022-06-07 17:45:50.914 ServerApp] Notebook 気圧1か月平均.ipynb is not trusted
+[W 2022-06-07 17:45:50.962 ServerApp] Notebook 風のプロット.ipynb is not trusted
+[W 2022-06-07 17:45:50.991 ServerApp] Notebook 等高線のプロット.ipynb is not trusted
+[W 2022-06-07 17:45:51.035 ServerApp] Notebook 当たり新ver.ipynb is not trusted
+[W 2022-06-07 17:45:51.094 ServerApp] Notebook 気圧一か月平均基本.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: f66695d2-7d35-4d34-a31d-a4c671f7d033
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 0fe36345-5ac4-4b6f-b670-60a199cb077f
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 34dc8d42-a9e9-4671-8e73-d6838be4d806
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 86d0832f-ca67-4967-9eaa-51bcd2be7496
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 2363410e-23ef-46e3-9fad-e4916b04b848
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 5f4b8f06-ae65-45ad-824c-9fd88d3d5d18
+[I 2022-06-07 17:47:57.431 ServerApp] Saving file at /等高線のプロット.ipynb
+[I 2022-06-07 17:48:04.208 ServerApp] Creating new notebook in 
+[I 2022-06-07 17:48:04.699 ServerApp] Kernel started: 01858f5a-0bf8-468d-9c53-e2ebf20a5867
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 9968b17c-3b60-46bf-ae03-cdd923958f75
+[I 2022-06-07 17:50:04.639 ServerApp] Saving file at /Untitled9.ipynb
+[I 2022-06-07 17:52:05.172 ServerApp] Saving file at /Untitled9.ipynb
+[I 2022-06-07 17:54:05.295 ServerApp] Saving file at /Untitled9.ipynb
+[I 2022-06-07 17:56:05.465 ServerApp] Saving file at /Untitled9.ipynb
+[I 2022-06-07 17:57:59.384 ServerApp] Saving file at /当たり新ver.ipynb
+[W 2022-06-07 17:57:59.385 ServerApp] Notebook 当たり新ver.ipynb is not trusted
+[W 2022-06-07 18:04:23.774 ServerApp] delete /当たりの日.png
+[W 2022-06-07 18:04:23.775 ServerApp] Skipping trash for /mnt/meteo-hdd02/konagai/当たりの日.png, on different device to home directory
+[I 2022-06-07 18:10:00.323 ServerApp] Saving file at /当たり新ver.ipynb
+[W 2022-06-07 18:10:00.323 ServerApp] Notebook 当たり新ver.ipynb is not trusted
+[I 2022-06-07 18:12:00.869 ServerApp] Saving file at /当たり新ver.ipynb
+[W 2022-06-07 18:12:00.870 ServerApp] Notebook 当たり新ver.ipynb is not trusted
+[I 2022-06-07 18:15:58.445 ServerApp] Saving file at /風のプロット.ipynb
+[I 2022-06-07 18:16:03.350 ServerApp] Starting buffering for 2728012c-4c3b-46f0-a507-554f5b09a01f:53688270-5ea9-44ba-9c97-04d489589745
+[I 2022-06-07 18:16:03.351 ServerApp] Starting buffering for 6de79082-8a47-476a-b2d2-eb756d78dc37:f3dea219-fe68-4808-9937-98b239fca9eb
+[I 2022-06-07 18:16:03.351 ServerApp] Starting buffering for b498e565-60a0-455a-8a1b-79bf751d2f08:3fcbb189-f111-40cc-ae68-26fb44ceff09
+[I 2022-06-07 18:16:03.352 ServerApp] Starting buffering for 2ace96a7-cf29-4448-97c6-62055bc566a4:47e4f400-79d5-4b3f-80e2-eaa1e39287e0
+[I 2022-06-07 18:16:03.352 ServerApp] Starting buffering for bcc1eae3-c7b5-469a-b74d-f5752e76203f:6ea9127a-d490-4a36-a3f0-de7ba4287ec8
+[I 2022-06-07 18:16:03.352 ServerApp] Starting buffering for ca89b4ac-f74c-4caa-881e-bf8689cfe302:aa45fc39-fbfb-451f-a4f3-c24765de49d3
+[I 2022-06-07 18:16:03.353 ServerApp] Starting buffering for 01858f5a-0bf8-468d-9c53-e2ebf20a5867:69f9cf3c-91df-4fa9-9b9a-08c9aa47a65a
+[W 2022-06-10 14:46:42.405 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2022-06-10 14:46:44.590 ServerApp] Notebook 等高線のプロット.ipynb is not trusted
+[W 2022-06-10 14:46:44.679 ServerApp] Notebook 当たり新ver.ipynb is not trusted
+[W 2022-06-10 14:46:44.779 ServerApp] Notebook 気圧一か月平均基本.ipynb is not trusted
+[W 2022-06-10 14:46:44.896 ServerApp] Notebook 気圧2.ipynb is not trusted
+[W 2022-06-10 14:46:45.010 ServerApp] Notebook 気圧1か月平均.ipynb is not trusted
+[W 2022-06-10 14:46:45.074 ServerApp] Notebook 風のプロット.ipynb is not trusted
+[W 2022-06-10 14:46:45.738 ServerApp] Notebook Untitled9.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 5038737d-c33d-4947-acdb-dcf8506d293f
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: e1b88909-4c6d-48ed-869b-8d3def98f9c8
+[IPKernelApp] WARNING | No such comm: d5fbfb02-bd94-4361-8bd8-db3b9f7703de
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: e4bbc8b7-5d48-4cf0-83eb-b0dbe0bdeba2
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 9f822a80-b253-426d-b621-6e005c15257d
+[IPKernelApp] WARNING | No such comm: 1a2e3fd9-a272-4afa-b729-37499e1818bb
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: ae7a9d4f-91c1-4a97-9565-a7e62f6e3016
+[I 2022-06-10 14:47:07.377 ServerApp] Creating new notebook in 
+[I 2022-06-10 14:47:08.055 ServerApp] Kernel started: e7ccece9-5f58-4721-b606-28e0908172a9
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 6d31606b-ab58-43a5-9bbe-0debf864f531
+[I 2022-06-10 14:49:08.339 ServerApp] Saving file at /Untitled10.ipynb
+[W 2022-06-10 14:51:35.218 ServerApp] Notebook 気圧1年平均基本.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 8afd9e55-b47b-4bbc-8972-bdc4f1c00892
+[I 2022-06-10 14:53:08.520 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-10 14:55:09.062 ServerApp] Saving file at /風向と等高線.ipynb
+[I 2022-06-10 14:57:09.598 ServerApp] Saving file at /風向と等高線.ipynb
+[I 2022-06-10 14:59:10.475 ServerApp] Saving file at /風向と等高線.ipynb
+[I 2022-06-10 15:01:12.999 ServerApp] Saving file at /風向と等高線.ipynb
+[I 2022-06-10 15:03:14.783 ServerApp] Saving file at /風向と等高線.ipynb
+[I 2022-06-10 15:07:15.449 ServerApp] Saving file at /風向と等高線.ipynb
+[I 2022-06-10 15:09:16.445 ServerApp] Saving file at /風向と等高線.ipynb
+[I 2022-06-10 15:11:17.808 ServerApp] Saving file at /風向と等高線.ipynb
+[I 2022-06-10 15:13:18.382 ServerApp] Saving file at /風向と等高線.ipynb
+[I 2022-06-10 15:15:09.268 ServerApp] Saving file at /風向と等高線.ipynb
+[I 2022-06-10 15:22:46.620 ServerApp] Saving file at /当たり新ver.ipynb
+[W 2022-06-10 15:22:46.621 ServerApp] Notebook 当たり新ver.ipynb is not trusted
+[I 2022-06-10 15:24:46.961 ServerApp] Saving file at /当たり新ver.ipynb
+[W 2022-06-10 15:24:46.962 ServerApp] Notebook 当たり新ver.ipynb is not trusted
+[I 2022-06-10 15:32:47.787 ServerApp] Saving file at /等高線のプロット.ipynb
+[I 2022-06-10 15:36:48.804 ServerApp] Saving file at /等高線のプロット.ipynb
+[I 2022-06-10 15:38:49.013 ServerApp] Saving file at /等高線のプロット.ipynb
+[I 2022-06-10 15:40:50.074 ServerApp] Saving file at /等高線のプロット.ipynb
+[I 2022-06-10 15:44:50.306 ServerApp] Saving file at /等高線のプロット.ipynb
+[I 2022-06-10 15:46:50.517 ServerApp] Saving file at /等高線のプロット.ipynb
+[I 2022-06-10 15:51:12.969 ServerApp] Saving file at /風向と等高線.ipynb
+[I 2022-06-10 15:52:54.705 ServerApp] Creating new notebook in 
+[I 2022-06-10 15:52:55.680 ServerApp] Kernel started: 16c3cacc-6ad4-47f1-ad95-cf5f177c6650
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: c40659b6-a362-4f64-be7b-a6a67c36602d
+[I 2022-06-10 15:53:13.737 ServerApp] Saving file at /風向と等高線.ipynb
+[I 2022-06-10 15:54:55.577 ServerApp] Saving file at /適中の日の風向.ipynb
+[I 2022-06-10 15:56:55.717 ServerApp] Saving file at /適中の日の風向.ipynb
+[I 2022-06-10 15:58:55.936 ServerApp] Saving file at /適中の日の風向.ipynb
+[I 2022-06-10 16:00:49.303 ServerApp] Saving file at /適中の日の風向.ipynb
+[I 2022-06-10 16:02:49.530 ServerApp] Saving file at /適中の日の風向.ipynb
+[I 2022-06-10 16:10:05.340 ServerApp] Starting buffering for c5bf1143-ce3f-48e7-b453-face2985bf2d:8619ed58-d8e1-4275-ae9c-6c2e5bb4f402
+[I 2022-06-10 16:10:07.369 ServerApp] Starting buffering for b498e565-60a0-455a-8a1b-79bf751d2f08:c2bafa5b-4305-455e-91a6-37bab028d7e5
+[I 2022-06-10 16:10:09.277 ServerApp] Starting buffering for ca89b4ac-f74c-4caa-881e-bf8689cfe302:4692d5fc-e3d9-41dd-8b57-86fb4ecd849c
+[I 2022-06-10 16:10:10.709 ServerApp] Starting buffering for 2ace96a7-cf29-4448-97c6-62055bc566a4:feeeb511-974a-4d0e-8820-720a287dfc94
+[I 2022-06-10 16:10:12.101 ServerApp] Starting buffering for 01858f5a-0bf8-468d-9c53-e2ebf20a5867:75bb2dfa-844c-410e-93f0-2f53b83da16e
+[I 2022-06-10 16:10:14.578 ServerApp] Starting buffering for bcc1eae3-c7b5-469a-b74d-f5752e76203f:827cf5cc-180f-41ea-8338-fe17bd0030fe
+[W 2022-06-10 16:10:23.454 ServerApp] Notebook Untitled9.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: e5edf2bd-e956-4848-a80e-204fcf2b92fa
+[W 2022-06-10 16:10:33.636 ServerApp] Notebook 雲海10年分.ipynb is not trusted
+[I 2022-06-10 16:10:35.557 ServerApp] Kernel started: 722be6f5-f987-43f8-9086-11655b647fb6
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: a9e5f051-598b-4a3c-92d0-34ea3cffa0a7
+[I 2022-06-10 16:11:45.830 ServerApp] Creating new notebook in 
+[I 2022-06-10 16:11:46.919 ServerApp] Kernel started: 29cf5d60-7c38-415c-991b-8ffba66fef5b
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 7a1b6924-2268-4267-a28f-3f3d58ffcc7a
+[W 2022-06-10 16:12:52.428 ServerApp] Notebook 雲海10月.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: b9353a4e-921c-4435-b1f2-0b5d5dadbcef
+[I 2022-06-10 16:13:46.709 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-10 16:15:46.821 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-10 16:17:46.938 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-10 16:18:36.417 ServerApp] Saving file at /雲海10年分.ipynb
+[W 2022-06-10 16:18:36.418 ServerApp] Notebook 雲海10年分.ipynb is not trusted
+[I 2022-06-10 16:19:47.739 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-10 16:25:50.812 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-10 16:27:50.951 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-10 16:29:51.539 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-10 16:33:52.823 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-10 16:35:53.872 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-10 16:39:18.766 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-10 16:41:18.947 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-10 16:43:19.142 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-10 16:45:19.327 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-10 16:46:03.698 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-10 16:50:03.889 ServerApp] Saving file at /Untitled10.ipynb
+[W 2022-06-10 16:51:46.157 ServerApp] Notebook 雲海5月.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 7323eeca-024c-4561-8c70-9883914a9bcc
+[I 2022-06-10 16:51:51.898 ServerApp] Starting buffering for 485f2ca0-a0e8-48fc-8ac3-570813d060e9:13cc6f57-db38-472c-979e-3708a1d23afc
+[I 2022-06-10 16:54:04.404 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-10 16:54:45.771 ServerApp] Saving file at /雲海10年分.ipynb
+[W 2022-06-10 16:54:45.772 ServerApp] Notebook 雲海10年分.ipynb is not trusted
+[I 2022-06-10 16:56:05.076 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-10 16:58:05.289 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-10 17:02:05.894 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-10 17:04:06.116 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-10 17:06:06.882 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-10 17:08:07.878 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-10 17:10:08.886 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-10 17:12:09.067 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-10 17:30:09.370 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-10 17:32:09.641 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-10 17:33:44.507 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-10 17:34:18.821 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-10 17:38:19.911 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-10 17:48:22.001 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-10 17:58:24.035 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-10 18:00:24.335 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-10 18:02:24.533 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-10 18:06:26.002 ServerApp] Saving file at /数え上げ.ipynb
+[I 2022-06-10 18:28:50.035 ServerApp] Saving file at /数え上げ.ipynb
+[I 2022-06-10 18:28:56.888 ServerApp] Starting buffering for 16c3cacc-6ad4-47f1-ad95-cf5f177c6650:a9daed2c-0c12-4c22-aa28-d9c640ccc4e5
+[I 2022-06-10 18:28:56.888 ServerApp] Starting buffering for 01858f5a-0bf8-468d-9c53-e2ebf20a5867:11a1ff7e-04fe-4dc0-ab92-be6638d3fab2
+[I 2022-06-10 18:28:56.888 ServerApp] Starting buffering for 722be6f5-f987-43f8-9086-11655b647fb6:4790c814-fdc6-42ff-8735-a74c4ee8087e
+[I 2022-06-10 18:28:56.888 ServerApp] Starting buffering for 29cf5d60-7c38-415c-991b-8ffba66fef5b:86d18b0a-a7bd-4dd3-9176-0135f302bff3
+[I 2022-06-10 18:28:56.889 ServerApp] Starting buffering for 9c8e1b06-14f5-4cbb-955a-bd9dd2d26a01:1954493a-118f-423e-ba42-babbace7a742
+[I 2022-06-10 18:28:56.889 ServerApp] Starting buffering for 2728012c-4c3b-46f0-a507-554f5b09a01f:d35bad17-6799-45c6-b3fc-1b7208eff440
+[I 2022-06-10 18:28:56.889 ServerApp] Starting buffering for 6de79082-8a47-476a-b2d2-eb756d78dc37:bbfdd4b3-b3aa-43b5-90da-b5c3473278cc
+[I 2022-06-10 18:28:56.889 ServerApp] Starting buffering for e7ccece9-5f58-4721-b606-28e0908172a9:af80b28c-177f-406e-a28b-edddd32b346e
+[W 2022-06-11 11:52:59.575 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2022-06-11 11:53:02.426 ServerApp] Notebook 気圧2.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: c80f081d-1f69-4b39-8794-0c9651e3b90e
+[W 2022-06-11 11:53:37.894 ServerApp] Notebook 数え上げ.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: e254cc37-3ca5-4b92-8252-b651822b9080
+[W 2022-06-11 11:53:44.704 ServerApp] Notebook 適中の日の風向.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 14c48e54-e253-44cd-bff6-d5924cf0eb3d
+[W 2022-06-11 11:54:02.727 ServerApp] Notebook 当たり新ver.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: e856f935-bf7e-4573-b201-703d1daa79d5
+[I 2022-06-11 11:56:05.311 ServerApp] Saving file at /当たり新ver.ipynb
+[W 2022-06-11 11:56:05.311 ServerApp] Notebook 当たり新ver.ipynb is not trusted
+[I 2022-06-11 11:58:05.954 ServerApp] Saving file at /当たり新ver.ipynb
+[W 2022-06-11 11:58:05.954 ServerApp] Notebook 当たり新ver.ipynb is not trusted
+[I 2022-06-11 11:59:03.040 ServerApp] Saving file at /当たり新ver.ipynb
+[W 2022-06-11 11:59:03.040 ServerApp] Notebook 当たり新ver.ipynb is not trusted
+[I 2022-06-11 12:01:04.135 ServerApp] Saving file at /当たり新ver.ipynb
+[W 2022-06-11 12:01:04.135 ServerApp] Notebook 当たり新ver.ipynb is not trusted
+[I 2022-06-11 12:03:05.902 ServerApp] Saving file at /当たり新ver.ipynb
+[W 2022-06-11 12:03:05.903 ServerApp] Notebook 当たり新ver.ipynb is not trusted
+[I 2022-06-11 12:05:07.126 ServerApp] Saving file at /当たり新ver.ipynb
+[W 2022-06-11 12:05:07.126 ServerApp] Notebook 当たり新ver.ipynb is not trusted
+[I 2022-06-11 12:07:07.960 ServerApp] Saving file at /当たり新ver.ipynb
+[W 2022-06-11 12:07:07.960 ServerApp] Notebook 当たり新ver.ipynb is not trusted
+[I 2022-06-11 12:09:09.514 ServerApp] Saving file at /当たり新ver.ipynb
+[W 2022-06-11 12:09:09.514 ServerApp] Notebook 当たり新ver.ipynb is not trusted
+[I 2022-06-11 12:11:12.016 ServerApp] Saving file at /当たり新ver.ipynb
+[W 2022-06-11 12:11:12.016 ServerApp] Notebook 当たり新ver.ipynb is not trusted
+[W 2022-06-11 12:12:51.704 ServerApp] 400 GET /api/contents/%E9%9B%B2%E6%B5%B72012%EF%BD%9E2021.xlsx?format=text&type=file&content=1&1654916601922 (::1): /mnt/meteo-hdd02/konagai/雲海2012～2021.xlsx is not UTF-8 encoded
+[W 2022-06-11 12:12:51.704 ServerApp] /mnt/meteo-hdd02/konagai/雲海2012～2021.xlsx is not UTF-8 encoded
+[W 2022-06-11 12:12:51.705 ServerApp] 400 GET /api/contents/%E9%9B%B2%E6%B5%B72012%EF%BD%9E2021.xlsx?format=text&type=file&content=1&1654916601922 (::1) 30.29ms referer=http://localhost:8886/lab/workspaces/auto-k/tree/%E6%95%B0%E3%81%88%E4%B8%8A%E3%81%92.ipynb
+[I 2022-06-11 12:13:12.294 ServerApp] Saving file at /当たり新ver.ipynb
+[W 2022-06-11 12:13:12.294 ServerApp] Notebook 当たり新ver.ipynb is not trusted
+[I 2022-06-11 12:13:14.424 ServerApp] Saving file at /当たり新ver.ipynb
+[W 2022-06-11 12:13:14.425 ServerApp] Notebook 当たり新ver.ipynb is not trusted
+[I 2022-06-11 12:15:16.921 ServerApp] Saving file at /当たり新ver.ipynb
+[W 2022-06-11 12:15:16.922 ServerApp] Notebook 当たり新ver.ipynb is not trusted
+[I 2022-06-11 12:17:18.167 ServerApp] Saving file at /当たり新ver.ipynb
+[W 2022-06-11 12:17:18.167 ServerApp] Notebook 当たり新ver.ipynb is not trusted
+[I 2022-06-11 12:19:39.074 ServerApp] Saving file at /数え上げ.ipynb
+[W 2022-06-11 12:19:39.074 ServerApp] Notebook 数え上げ.ipynb is not trusted
+[I 2022-06-11 12:21:39.512 ServerApp] Saving file at /数え上げ.ipynb
+[W 2022-06-11 12:21:39.512 ServerApp] Notebook 数え上げ.ipynb is not trusted
+[I 2022-06-11 12:23:40.146 ServerApp] Saving file at /数え上げ.ipynb
+[W 2022-06-11 12:23:40.147 ServerApp] Notebook 数え上げ.ipynb is not trusted
+[I 2022-06-11 12:25:40.988 ServerApp] Saving file at /数え上げ.ipynb
+[W 2022-06-11 12:25:40.988 ServerApp] Notebook 数え上げ.ipynb is not trusted
+[I 2022-06-11 12:27:41.499 ServerApp] Saving file at /数え上げ.ipynb
+[W 2022-06-11 12:27:41.500 ServerApp] Notebook 数え上げ.ipynb is not trusted
+[I 2022-06-11 12:27:56.960 ServerApp] Saving file at /数え上げ.ipynb
+[W 2022-06-11 12:27:56.960 ServerApp] Notebook 数え上げ.ipynb is not trusted
+[I 2022-06-11 12:29:10.415 ServerApp] Kernel interrupted: bcc1eae3-c7b5-469a-b74d-f5752e76203f
+[I 2022-06-11 12:29:24.466 ServerApp] Kernel restarted: bcc1eae3-c7b5-469a-b74d-f5752e76203f
+[I 2022-06-11 12:29:24.665 ServerApp] Starting buffering for bcc1eae3-c7b5-469a-b74d-f5752e76203f:e63e7892-8ae2-4744-a97b-ab96ce053e1f
+[I 2022-06-11 12:29:24.787 ServerApp] Restoring connection for bcc1eae3-c7b5-469a-b74d-f5752e76203f:e63e7892-8ae2-4744-a97b-ab96ce053e1f
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 44cd5bdf-ffb8-44d6-8dc0-d28026bd375d
+[I 2022-06-11 12:29:57.669 ServerApp] Saving file at /数え上げ.ipynb
+[W 2022-06-11 12:29:57.669 ServerApp] Notebook 数え上げ.ipynb is not trusted
+[I 2022-06-11 12:31:19.146 ServerApp] Saving file at /当たり新ver.ipynb
+[W 2022-06-11 12:31:19.146 ServerApp] Notebook 当たり新ver.ipynb is not trusted
+[I 2022-06-11 12:33:21.401 ServerApp] Saving file at /当たり新ver.ipynb
+[W 2022-06-11 12:33:21.401 ServerApp] Notebook 当たり新ver.ipynb is not trusted
+[I 2022-06-11 12:37:26.763 ServerApp] Saving file at /当たり新ver.ipynb
+[W 2022-06-11 12:37:26.764 ServerApp] Notebook 当たり新ver.ipynb is not trusted
+[I 2022-06-11 12:39:27.393 ServerApp] Saving file at /当たり新ver.ipynb
+[W 2022-06-11 12:39:27.393 ServerApp] Notebook 当たり新ver.ipynb is not trusted
+[I 2022-06-11 12:41:28.749 ServerApp] Saving file at /当たり新ver.ipynb
+[W 2022-06-11 12:41:28.750 ServerApp] Notebook 当たり新ver.ipynb is not trusted
+[I 2022-06-11 12:43:31.252 ServerApp] Saving file at /当たり新ver.ipynb
+[W 2022-06-11 12:43:31.252 ServerApp] Notebook 当たり新ver.ipynb is not trusted
+[I 2022-06-11 12:45:32.909 ServerApp] Saving file at /当たり新ver.ipynb
+[W 2022-06-11 12:45:32.909 ServerApp] Notebook 当たり新ver.ipynb is not trusted
+[I 2022-06-11 12:45:46.629 ServerApp] Saving file at /数え上げ.ipynb
+[W 2022-06-11 12:45:46.630 ServerApp] Notebook 数え上げ.ipynb is not trusted
+[I 2022-06-11 12:47:01.548 ServerApp] Saving file at /数え上げ.ipynb
+[W 2022-06-11 12:47:01.549 ServerApp] Notebook 数え上げ.ipynb is not trusted
+[I 2022-06-11 12:47:35.136 ServerApp] Saving file at /当たり新ver.ipynb
+[W 2022-06-11 12:47:35.136 ServerApp] Notebook 当たり新ver.ipynb is not trusted
+[I 2022-06-11 12:49:36.627 ServerApp] Saving file at /当たり新ver.ipynb
+[W 2022-06-11 12:49:36.627 ServerApp] Notebook 当たり新ver.ipynb is not trusted
+[I 2022-06-11 12:49:55.898 ServerApp] Saving file at /当たり新ver.ipynb
+[W 2022-06-11 12:49:55.898 ServerApp] Notebook 当たり新ver.ipynb is not trusted
+[W 2022-06-11 12:51:39.153 ServerApp] WebSocket ping timeout after 119760 ms.
+[I 2022-06-11 12:51:44.154 ServerApp] Starting buffering for 29cf5d60-7c38-415c-991b-8ffba66fef5b:14dd98d0-aa78-4c9d-89e8-4eace559b83c
+[W 2022-06-11 12:51:46.244 ServerApp] WebSocket ping timeout after 119894 ms.
+[I 2022-06-11 12:51:51.245 ServerApp] Starting buffering for 16c3cacc-6ad4-47f1-ad95-cf5f177c6650:117c5a2a-2320-43ba-8581-5a8519f3b1ee
+[W 2022-06-11 12:51:54.788 ServerApp] WebSocket ping timeout after 118836 ms.
+[I 2022-06-11 12:51:59.790 ServerApp] Starting buffering for bcc1eae3-c7b5-469a-b74d-f5752e76203f:e63e7892-8ae2-4744-a97b-ab96ce053e1f
+[W 2022-06-11 12:52:03.678 ServerApp] WebSocket ping timeout after 119524 ms.
+[I 2022-06-11 12:52:08.680 ServerApp] Starting buffering for 2728012c-4c3b-46f0-a507-554f5b09a01f:6e688316-3b02-48f9-b57d-60979105d62a
+[W 2022-06-12 17:37:45.110 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2022-06-12 17:37:48.408 ServerApp] Notebook 風のプロット.ipynb is not trusted
+[W 2022-06-12 17:37:48.448 ServerApp] Notebook 気圧2.ipynb is not trusted
+[W 2022-06-12 17:37:48.492 ServerApp] Notebook 適中の日の風向.ipynb is not trusted
+[W 2022-06-12 17:37:48.523 ServerApp] Notebook Untitled9.ipynb is not trusted
+[W 2022-06-12 17:37:48.732 ServerApp] Notebook 雲海10年分.ipynb is not trusted
+[W 2022-06-12 17:37:48.808 ServerApp] Notebook 雲海10月.ipynb is not trusted
+[W 2022-06-12 17:37:52.496 ServerApp] Notebook 数え上げ.ipynb is not trusted
+[W 2022-06-12 17:37:52.722 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2022-06-12 17:37:58.178 LabApp] Could not determine jupyterlab build status without nodejs
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: d80c0ae6-367e-41d8-860e-7b166433a0ce
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: ccc760fd-ee02-498c-84a3-3f00b2075124
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: ac31eb1e-1df7-4d27-b036-d45da7e61067
+[IPKernelApp] WARNING | No such comm: c3289675-3937-42fb-957d-5539f21848fa
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 79c8b437-3f0a-4665-9985-caec2d3074ad
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: bb295037-03cd-4cd2-9aad-f88d3686b13d
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 4e956c51-e862-47e5-bc48-27fdd8189512
+[I 2022-06-12 17:39:54.340 ServerApp] Saving file at /数え上げ.ipynb
+[W 2022-06-12 17:39:54.340 ServerApp] Notebook 数え上げ.ipynb is not trusted
+[I 2022-06-12 17:41:54.660 ServerApp] Saving file at /数え上げ.ipynb
+[W 2022-06-12 17:41:54.660 ServerApp] Notebook 数え上げ.ipynb is not trusted
+[I 2022-06-12 17:43:54.886 ServerApp] Saving file at /数え上げ.ipynb
+[W 2022-06-12 17:43:54.886 ServerApp] Notebook 数え上げ.ipynb is not trusted
+[I 2022-06-12 17:47:55.141 ServerApp] Saving file at /数え上げ.ipynb
+[W 2022-06-12 17:47:55.141 ServerApp] Notebook 数え上げ.ipynb is not trusted
+[I 2022-06-12 17:49:55.953 ServerApp] Saving file at /数え上げ.ipynb
+[W 2022-06-12 17:49:55.953 ServerApp] Notebook 数え上げ.ipynb is not trusted
+[I 2022-06-12 17:55:56.279 ServerApp] Saving file at /数え上げ.ipynb
+[W 2022-06-12 17:55:56.280 ServerApp] Notebook 数え上げ.ipynb is not trusted
+[I 2022-06-12 17:57:56.576 ServerApp] Saving file at /数え上げ.ipynb
+[W 2022-06-12 17:57:56.576 ServerApp] Notebook 数え上げ.ipynb is not trusted
+[I 2022-06-12 17:59:56.918 ServerApp] Saving file at /数え上げ.ipynb
+[W 2022-06-12 17:59:56.919 ServerApp] Notebook 数え上げ.ipynb is not trusted
+[I 2022-06-12 18:01:57.212 ServerApp] Saving file at /数え上げ.ipynb
+[W 2022-06-12 18:01:57.213 ServerApp] Notebook 数え上げ.ipynb is not trusted
+[I 2022-06-12 18:03:57.548 ServerApp] Saving file at /数え上げ.ipynb
+[W 2022-06-12 18:03:57.549 ServerApp] Notebook 数え上げ.ipynb is not trusted
+[I 2022-06-12 18:05:57.901 ServerApp] Saving file at /数え上げ.ipynb
+[W 2022-06-12 18:05:57.901 ServerApp] Notebook 数え上げ.ipynb is not trusted
+[I 2022-06-12 18:07:58.187 ServerApp] Saving file at /数え上げ.ipynb
+[W 2022-06-12 18:07:58.187 ServerApp] Notebook 数え上げ.ipynb is not trusted
+[I 2022-06-12 18:09:58.483 ServerApp] Saving file at /数え上げ.ipynb
+[W 2022-06-12 18:09:58.484 ServerApp] Notebook 数え上げ.ipynb is not trusted
+[I 2022-06-12 18:11:58.816 ServerApp] Saving file at /数え上げ.ipynb
+[W 2022-06-12 18:11:58.816 ServerApp] Notebook 数え上げ.ipynb is not trusted
+[I 2022-06-12 18:13:59.189 ServerApp] Saving file at /数え上げ.ipynb
+[W 2022-06-12 18:13:59.189 ServerApp] Notebook 数え上げ.ipynb is not trusted
+[I 2022-06-12 18:15:59.501 ServerApp] Saving file at /数え上げ.ipynb
+[W 2022-06-12 18:15:59.501 ServerApp] Notebook 数え上げ.ipynb is not trusted
+[I 2022-06-12 18:18:00.043 ServerApp] Saving file at /数え上げ.ipynb
+[W 2022-06-12 18:18:00.043 ServerApp] Notebook 数え上げ.ipynb is not trusted
+[I 2022-06-12 18:20:00.354 ServerApp] Saving file at /数え上げ.ipynb
+[W 2022-06-12 18:20:00.354 ServerApp] Notebook 数え上げ.ipynb is not trusted
+[I 2022-06-12 18:22:00.698 ServerApp] Saving file at /数え上げ.ipynb
+[W 2022-06-12 18:22:00.699 ServerApp] Notebook 数え上げ.ipynb is not trusted
+[I 2022-06-12 18:24:00.987 ServerApp] Saving file at /数え上げ.ipynb
+[W 2022-06-12 18:24:00.987 ServerApp] Notebook 数え上げ.ipynb is not trusted
+[I 2022-06-12 18:26:01.354 ServerApp] Saving file at /数え上げ.ipynb
+[W 2022-06-12 18:26:01.354 ServerApp] Notebook 数え上げ.ipynb is not trusted
+[I 2022-06-12 18:28:01.682 ServerApp] Saving file at /数え上げ.ipynb
+[W 2022-06-12 18:28:01.683 ServerApp] Notebook 数え上げ.ipynb is not trusted
+[I 2022-06-12 18:30:01.985 ServerApp] Saving file at /数え上げ.ipynb
+[W 2022-06-12 18:30:01.985 ServerApp] Notebook 数え上げ.ipynb is not trusted
+[I 2022-06-12 18:32:02.476 ServerApp] Saving file at /数え上げ.ipynb
+[W 2022-06-12 18:32:02.476 ServerApp] Notebook 数え上げ.ipynb is not trusted
+[W 2022-06-12 18:37:25.162 ServerApp] WebSocket ping timeout after 117659 ms.
+[W 2022-06-12 18:37:25.387 ServerApp] WebSocket ping timeout after 117884 ms.
+[W 2022-06-12 18:37:25.603 ServerApp] WebSocket ping timeout after 118099 ms.
+[W 2022-06-12 18:37:25.664 ServerApp] WebSocket ping timeout after 118160 ms.
+[W 2022-06-12 18:37:25.807 ServerApp] WebSocket ping timeout after 118303 ms.
+[W 2022-06-12 18:37:25.870 ServerApp] WebSocket ping timeout after 118366 ms.
+[W 2022-06-12 18:37:26.104 ServerApp] WebSocket ping timeout after 118600 ms.
+[I 2022-06-12 18:37:30.164 ServerApp] Starting buffering for 6de79082-8a47-476a-b2d2-eb756d78dc37:1c779b75-0d51-4326-b734-40dfbb0116f3
+[I 2022-06-12 18:37:30.389 ServerApp] Starting buffering for 2728012c-4c3b-46f0-a507-554f5b09a01f:2e1aa287-67d1-4951-a66d-5fbbcb23e031
+[I 2022-06-12 18:37:30.604 ServerApp] Starting buffering for 16c3cacc-6ad4-47f1-ad95-cf5f177c6650:4b55d983-05d9-43b9-8428-f722f076c425
+[I 2022-06-12 18:37:30.665 ServerApp] Starting buffering for 01858f5a-0bf8-468d-9c53-e2ebf20a5867:2e155f4f-a75f-4043-a008-788c8ad8629f
+[I 2022-06-12 18:37:30.808 ServerApp] Starting buffering for 722be6f5-f987-43f8-9086-11655b647fb6:e94c76df-fa43-477a-ba0f-d84908c76e27
+[I 2022-06-12 18:37:30.871 ServerApp] Starting buffering for 9c8e1b06-14f5-4cbb-955a-bd9dd2d26a01:456af59a-e61c-4870-893f-20f031b3af26
+[I 2022-06-12 18:37:31.106 ServerApp] Starting buffering for 29cf5d60-7c38-415c-991b-8ffba66fef5b:5bad2876-a6aa-4077-aa51-1c9380068e16
+[I 2022-06-13 13:27:13.189 ServerApp] Restoring connection for 29cf5d60-7c38-415c-991b-8ffba66fef5b:5bad2876-a6aa-4077-aa51-1c9380068e16
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 0e7e5c9d-694f-42c2-b4bb-8254512a5e64
+[I 2022-06-13 13:27:13.272 ServerApp] Restoring connection for 2728012c-4c3b-46f0-a507-554f5b09a01f:2e1aa287-67d1-4951-a66d-5fbbcb23e031
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 4d51946a-329e-41e6-bb93-44c2c98d4027
+[I 2022-06-13 13:27:17.551 ServerApp] Starting buffering for 29cf5d60-7c38-415c-991b-8ffba66fef5b:5bad2876-a6aa-4077-aa51-1c9380068e16
+[I 2022-06-13 13:27:17.551 ServerApp] Starting buffering for 2728012c-4c3b-46f0-a507-554f5b09a01f:2e1aa287-67d1-4951-a66d-5fbbcb23e031
+[W 2022-06-13 13:27:28.717 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2022-06-13 13:27:30.916 ServerApp] Notebook 風のプロット.ipynb is not trusted
+[W 2022-06-13 13:27:30.959 ServerApp] Notebook 気圧2.ipynb is not trusted
+[W 2022-06-13 13:27:31.007 ServerApp] Notebook 適中の日の風向.ipynb is not trusted
+[W 2022-06-13 13:27:31.040 ServerApp] Notebook Untitled9.ipynb is not trusted
+[W 2022-06-13 13:27:31.073 ServerApp] Notebook 雲海10年分.ipynb is not trusted
+[W 2022-06-13 13:27:31.110 ServerApp] Notebook 雲海10月.ipynb is not trusted
+[W 2022-06-13 13:27:31.389 ServerApp] Notebook 数え上げ.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 56109920-9de1-4b95-a9bf-362f20936cb2
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 56b2605f-2fa9-40db-b4fd-3bbfe837b50a
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 2c0c5384-13d9-4952-afa3-d07b65f91cef
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: b9bce6ce-8e26-47bc-810a-e5af84385ca2
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: e3a55d86-9373-44c6-975c-4d4ce7ec464f
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: afcc6176-6f52-4251-a6a8-09d2dd1be740
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: e6e34b7a-8203-45b6-bf4e-1b020e941bed
+[I 2022-06-13 14:02:00.743 ServerApp] Creating new notebook in 
+[I 2022-06-13 14:02:01.298 ServerApp] Kernel started: b10f5dc0-0dab-4bd8-a9be-b564a057a594
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 943b3b46-8db2-4aa6-88f7-82ca53437fb0
+[I 2022-06-13 14:04:01.191 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-13 14:06:01.380 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-13 14:08:01.631 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-13 14:10:01.850 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-13 14:12:02.006 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-13 14:16:03.619 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-13 14:22:04.218 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-13 14:24:05.207 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-13 14:26:06.563 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-13 14:28:07.056 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-13 14:30:07.304 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-13 14:40:20.195 ServerApp] Creating new notebook in 
+[I 2022-06-13 14:40:21.241 ServerApp] Kernel started: 879666e6-abb6-4947-8567-e92c6eeb27e7
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 43ab26c0-5249-4822-84bd-20410edaa117
+[I 2022-06-13 14:42:20.924 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-13 14:46:21.079 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-13 14:48:21.393 ServerApp] Saving file at /Untitled10.ipynb
+[W 2022-06-13 14:48:28.902 ServerApp] Notebook 数え上げ.ipynb is not trusted
+[W 2022-06-13 14:48:28.984 ServerApp] Notebook 気圧2.ipynb is not trusted
+[W 2022-06-13 14:48:29.031 ServerApp] Notebook 適中の日の風向.ipynb is not trusted
+[W 2022-06-13 14:48:29.078 ServerApp] Notebook 当たり新ver.ipynb is not trusted
+[W 2022-06-13 14:49:53.991 ServerApp] 400 GET /api/contents/%E9%9B%B2%E6%B5%B72012%EF%BD%9E2021.xlsx?format=text&type=file&content=1&1655098816421 (::1): /mnt/meteo-hdd02/konagai/雲海2012～2021.xlsx is not UTF-8 encoded
+[W 2022-06-13 14:49:53.991 ServerApp] /mnt/meteo-hdd02/konagai/雲海2012～2021.xlsx is not UTF-8 encoded
+[W 2022-06-13 14:49:53.992 ServerApp] 400 GET /api/contents/%E9%9B%B2%E6%B5%B72012%EF%BD%9E2021.xlsx?format=text&type=file&content=1&1655098816421 (::1) 2.22ms referer=http://localhost:8886/lab/tree/Untitled10.ipynb
+[I 2022-06-13 14:50:21.781 ServerApp] Saving file at /Untitled10.ipynb
+[I 2022-06-13 14:52:06.890 ServerApp] Saving file at /月別日数.ipynb
+[I 2022-06-13 14:52:10.302 ServerApp] Saving file at /雲海年日数.ipynb
+[I 2022-06-13 14:54:07.375 ServerApp] Saving file at /月別日数.ipynb
+[I 2022-06-13 15:00:09.313 ServerApp] Saving file at /月別日数.ipynb
+[I 2022-06-13 15:02:09.503 ServerApp] Saving file at /月別日数.ipynb
+[I 2022-06-13 15:02:34.031 ServerApp] Saving file at /月別日数.ipynb
+[I 2022-06-13 15:04:13.389 ServerApp] Saving file at /雲海年日数.ipynb
+[I 2022-06-13 15:04:34.515 ServerApp] Saving file at /月別日数.ipynb
+[I 2022-06-13 15:04:46.766 ServerApp] Saving file at /雲海年日数.ipynb
+[I 2022-06-13 15:06:41.187 ServerApp] Saving file at /月別日数.ipynb
+[I 2022-06-13 15:06:48.060 ServerApp] Saving file at /雲海年日数.ipynb
+[I 2022-06-13 15:07:25.390 ServerApp] Starting buffering for 722be6f5-f987-43f8-9086-11655b647fb6:67f95035-8567-413c-b4e4-fe9baf8689b6
+[I 2022-06-13 15:07:26.820 ServerApp] Starting buffering for 9c8e1b06-14f5-4cbb-955a-bd9dd2d26a01:11fdad98-961a-46fc-9dc8-7be877cd0458
+[I 2022-06-13 15:07:40.928 ServerApp] Starting buffering for 01858f5a-0bf8-468d-9c53-e2ebf20a5867:a877b64e-6025-4161-9460-69a3e9b7694e
+[I 2022-06-13 15:08:41.743 ServerApp] Saving file at /月別日数.ipynb
+[I 2022-06-13 15:10:42.420 ServerApp] Saving file at /月別日数.ipynb
+[I 2022-06-13 15:10:48.605 ServerApp] Saving file at /雲海年日数.ipynb
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: a1937a66-699a-42c8-afbf-9d324ec1d2c2
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 96dda106-931d-4185-b5f3-779c0cd0af7a
+[IPKernelApp] WARNING | No such comm: ccb68726-050d-4620-89a7-7a5a812c3775
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 4ee43461-c919-47fe-bfef-6b936f585e60
+[I 2022-06-13 15:11:45.750 ServerApp] Starting buffering for bcc1eae3-c7b5-469a-b74d-f5752e76203f:4fd25f8c-8922-43db-94c4-e64f243af127
+[E 2022-06-13 15:11:48.336 ServerApp] Uncaught exception GET /lab/api/settings/@jupyterlab/shortcuts-extension:shortcuts?1655100130458 (::1)
+    HTTPServerRequest(protocol='http', host='localhost:8886', method='GET', uri='/lab/api/settings/@jupyterlab/shortcuts-extension:shortcuts?1655100130458', version='HTTP/1.1', remote_ip='::1')
+    Traceback (most recent call last):
+      File "/home/konagai/.local/lib/python3.6/site-packages/tornado/web.py", line 1704, in _execute
+        result = await result
+    tornado.iostream.StreamClosedError: Stream is closed
+[W 2022-06-13 15:22:22.242 ServerApp] Notebook 気圧の描画.ipynb is not trusted
+[W 2022-06-13 15:22:31.501 ServerApp] Notebook 当たり新ver.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: fe03bbae-cae3-4a65-935d-5258a0ae49a7
+[I 2022-06-13 15:24:36.564 ServerApp] Saving file at /当たり新ver.ipynb
+[W 2022-06-13 15:24:36.565 ServerApp] Notebook 当たり新ver.ipynb is not trusted
+[I 2022-06-13 15:26:37.235 ServerApp] Saving file at /当たり新ver.ipynb
+[W 2022-06-13 15:26:37.236 ServerApp] Notebook 当たり新ver.ipynb is not trusted
+[W 2022-06-13 15:26:56.751 ServerApp] Notebook 当たり旧ver.ipynb is not trusted
+[I 2022-06-13 15:26:59.451 ServerApp] Discarding 1413 buffered messages for ae19d548-7a8d-44a3-bac6-1aa2642964c5:d643e59d-c161-488a-a706-8347bb7d6f00
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 85020c03-b739-42c9-993e-2c015f952916
+[I 2022-06-13 15:28:22.137 ServerApp] Saving file at /当たり旧ver.ipynb
+[W 2022-06-13 15:28:22.137 ServerApp] Notebook 当たり旧ver.ipynb is not trusted
+[I 2022-06-13 15:28:22.286 ServerApp] Starting buffering for ae19d548-7a8d-44a3-bac6-1aa2642964c5:dd5e0191-6c23-4902-99cf-f8839aca4ce3
+[W 2022-06-13 15:28:52.954 ServerApp] Notebook 風向と等高線.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 1950a8bf-a8ad-46f5-886c-3855f490b637
+[W 2022-06-13 15:30:28.678 ServerApp] delete /当たり.png
+[W 2022-06-13 15:30:28.679 ServerApp] Skipping trash for /mnt/meteo-hdd02/konagai/当たり.png, on different device to home directory
+[I 2022-06-13 15:30:38.642 ServerApp] Saving file at /当たり新ver.ipynb
+[W 2022-06-13 15:30:38.643 ServerApp] Notebook 当たり新ver.ipynb is not trusted
+[I 2022-06-13 15:32:48.809 ServerApp] Saving file at /風のプロット.ipynb
+[I 2022-06-13 15:34:49.308 ServerApp] Saving file at /風のプロット.ipynb
+[I 2022-06-13 15:34:51.373 ServerApp] Saving file at /風のプロット.ipynb
+[I 2022-06-13 15:36:51.768 ServerApp] Saving file at /風向のプロット.ipynb
+[I 2022-06-13 15:38:46.921 ServerApp] Saving file at /適中の日の風向.ipynb
+[I 2022-06-13 15:40:47.034 ServerApp] Saving file at /月別日数.ipynb
+[I 2022-06-13 15:40:47.782 ServerApp] Saving file at /適中の日の風向.ipynb
+[I 2022-06-13 15:41:47.483 ServerApp] Saving file at /雲海年日数.ipynb
+[I 2022-06-13 15:44:47.697 ServerApp] Saving file at /月別日数.ipynb
+[I 2022-06-13 15:46:48.740 ServerApp] Saving file at /月別日数.ipynb
+[I 2022-06-13 15:47:48.412 ServerApp] Saving file at /雲海年日数.ipynb
+[I 2022-06-13 15:48:49.031 ServerApp] Saving file at /月別日数.ipynb
+[I 2022-06-13 15:49:52.886 ServerApp] Kernel shutdown: b10f5dc0-0dab-4bd8-a9be-b564a057a594
+[W 2022-06-13 15:49:53.444 ServerApp] delete /雲海年日数.ipynb
+[W 2022-06-13 15:49:53.445 ServerApp] Skipping trash for /mnt/meteo-hdd02/konagai/雲海年日数.ipynb, on different device to home directory
+[I 2022-06-13 15:49:57.443 ServerApp] Saving file at /月別日数.ipynb
+[I 2022-06-13 15:51:17.293 ServerApp] Saving file at /年月別日数.ipynb
+[W 2022-06-13 15:52:19.005 ServerApp] delete /年日数変動.png
+[W 2022-06-13 15:52:19.005 ServerApp] Skipping trash for /mnt/meteo-hdd02/konagai/年日数変動.png, on different device to home directory
+[I 2022-06-13 15:53:17.629 ServerApp] Saving file at /年月別日数.ipynb
+[I 2022-06-13 15:56:04.160 ServerApp] Saving file at /適中だけ平均.ipynb
+[W 2022-06-13 16:00:59.920 ServerApp] Notebook 等高線のプロット.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: dc99ab99-508a-4a0a-8445-1c3391e09ebe
+[I 2022-06-13 16:01:06.722 ServerApp] Starting buffering for 2ace96a7-cf29-4448-97c6-62055bc566a4:bd249930-4a6c-4748-8a5f-d69d76e1226e
+[I 2022-06-13 16:04:04.963 ServerApp] Starting buffering for 6de79082-8a47-476a-b2d2-eb756d78dc37:6359c059-495a-4871-b351-42d305a2f768
+[I 2022-06-13 16:04:06.707 ServerApp] Starting buffering for e7ccece9-5f58-4721-b606-28e0908172a9:beef14e5-f50c-46db-a99a-090add8bc9f8
+[I 2022-06-13 16:18:44.288 ServerApp] Saving file at /年月別日数.ipynb
+[I 2022-06-13 16:19:22.292 ServerApp] Saving file at /数え上げ.ipynb
+[W 2022-06-13 16:19:22.293 ServerApp] Notebook 数え上げ.ipynb is not trusted
+[I 2022-06-13 16:31:50.576 ServerApp] Saving file at /適中の日の風向.ipynb
+[I 2022-06-13 16:33:07.747 ServerApp] Creating new directory in 
+[I 2022-06-13 16:33:09.570 ServerApp] Creating new directory in 
+[W 2022-06-13 16:33:12.035 ServerApp] 409 PATCH /api/contents/Untitled%20Folder%201?1655105014251 (::1): File already exists: Untitled Folder 2
+[W 2022-06-13 16:33:12.035 ServerApp] File already exists: Untitled Folder 2
+[W 2022-06-13 16:33:12.036 ServerApp] 409 PATCH /api/contents/Untitled%20Folder%201?1655105014251 (::1) 1.25ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-13 16:33:29.763 ServerApp] delete /Untitled Folder 1
+[W 2022-06-13 16:33:29.763 ServerApp] Skipping trash for /mnt/meteo-hdd02/konagai/Untitled Folder 1, on different device to home directory
+[W 2022-06-13 16:33:33.948 ServerApp] delete /Untitled Folder 2
+[W 2022-06-13 16:33:33.948 ServerApp] Skipping trash for /mnt/meteo-hdd02/konagai/Untitled Folder 2, on different device to home directory
+[W 2022-06-13 16:33:52.826 ServerApp] delete /error
+[W 2022-06-13 16:33:52.826 ServerApp] Skipping trash for /mnt/meteo-hdd02/konagai/error, on different device to home directory
+[I 2022-06-13 18:31:31.042 ServerApp] Starting buffering for 879666e6-abb6-4947-8567-e92c6eeb27e7:a080535c-e009-4e58-9c0e-c67aeaa53277
+[I 2022-06-13 18:31:31.051 ServerApp] Starting buffering for 2728012c-4c3b-46f0-a507-554f5b09a01f:2c65d514-a769-47f0-bba2-9cdad88eafbc
+[I 2022-06-13 18:31:31.051 ServerApp] Starting buffering for 16c3cacc-6ad4-47f1-ad95-cf5f177c6650:82657488-92ba-4b87-b4d6-10dfe779819e
+[I 2022-06-13 18:31:31.052 ServerApp] Starting buffering for bcc1eae3-c7b5-469a-b74d-f5752e76203f:37659b4f-8ba2-486f-9c4c-a65c558add8b
+[I 2022-06-13 18:31:31.052 ServerApp] Starting buffering for 29cf5d60-7c38-415c-991b-8ffba66fef5b:d80fa4a5-83a5-4475-9e5a-94dd9baae123
+[W 2022-06-15 14:02:27.084 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2022-06-15 14:02:29.399 ServerApp] Notebook 数え上げ.ipynb is not trusted
+[W 2022-06-15 14:02:29.492 ServerApp] Notebook 年月別日数.ipynb is not trusted
+[W 2022-06-15 14:02:29.548 ServerApp] Notebook 適中の日の風向.ipynb is not trusted
+[W 2022-06-15 14:02:29.673 ServerApp] Notebook 気圧2.ipynb is not trusted
+[W 2022-06-15 14:02:29.774 ServerApp] Notebook 適中気圧.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: ccb10a58-9a7d-47fb-9f4c-8447bf49b5a0
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 2ce20b57-4e78-42e4-93b2-da6d20aa8d21
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: be8d6e68-90ff-4266-87f2-29c76bed9f81
+[IPKernelApp] WARNING | No such comm: 7a8edf5d-06db-40c5-b0ee-dc5e24549d4b
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: e540a29d-d785-4d0f-918d-a1141704c6f1
+[W 2022-06-15 14:05:32.150 ServerApp] WebSocket ping timeout after 119878 ms.
+[W 2022-06-15 14:05:32.373 ServerApp] WebSocket ping timeout after 119898 ms.
+[W 2022-06-15 14:05:32.527 ServerApp] WebSocket ping timeout after 119939 ms.
+[W 2022-06-15 14:05:32.660 ServerApp] WebSocket ping timeout after 119879 ms.
+[W 2022-06-15 14:05:32.866 ServerApp] WebSocket ping timeout after 119764 ms.
+[I 2022-06-15 14:05:37.152 ServerApp] Starting buffering for 29cf5d60-7c38-415c-991b-8ffba66fef5b:e5db9daf-2d47-42e4-9025-aa2875ab5fd5
+[I 2022-06-15 14:05:37.374 ServerApp] Starting buffering for 879666e6-abb6-4947-8567-e92c6eeb27e7:7c91eba0-55fa-43e4-9131-a0852f6fed6e
+[I 2022-06-15 14:05:37.529 ServerApp] Starting buffering for 16c3cacc-6ad4-47f1-ad95-cf5f177c6650:1bd03960-0dca-4ae9-8974-871fb85ca7a8
+[I 2022-06-15 14:05:37.662 ServerApp] Starting buffering for 2728012c-4c3b-46f0-a507-554f5b09a01f:85370540-d619-4743-830b-a0f7bd4d4415
+[I 2022-06-15 14:05:37.867 ServerApp] Starting buffering for bcc1eae3-c7b5-469a-b74d-f5752e76203f:397ac13d-164a-42f1-8aa2-0668e8c896cf
+[I 2022-06-15 14:06:01.470 ServerApp] Restoring connection for 29cf5d60-7c38-415c-991b-8ffba66fef5b:e5db9daf-2d47-42e4-9025-aa2875ab5fd5
+[I 2022-06-15 14:06:01.723 ServerApp] Restoring connection for 879666e6-abb6-4947-8567-e92c6eeb27e7:7c91eba0-55fa-43e4-9131-a0852f6fed6e
+[I 2022-06-15 14:06:01.789 ServerApp] Restoring connection for 16c3cacc-6ad4-47f1-ad95-cf5f177c6650:1bd03960-0dca-4ae9-8974-871fb85ca7a8
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 0262eda2-372e-4e79-acb3-c3bb63e3e2b4
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 556fa683-cd6b-4b50-b09d-c7c5d4e15b84
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 1f1e9636-934f-4d34-8079-fbd4ed77f220
+[I 2022-06-15 14:06:01.998 ServerApp] Restoring connection for 2728012c-4c3b-46f0-a507-554f5b09a01f:85370540-d619-4743-830b-a0f7bd4d4415
+[I 2022-06-15 14:06:02.121 ServerApp] Restoring connection for bcc1eae3-c7b5-469a-b74d-f5752e76203f:397ac13d-164a-42f1-8aa2-0668e8c896cf
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: bd75ab45-a26f-46dc-90fc-2aa30c5f072c
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: e57a0c80-256c-4b9f-8613-5197bf06fc69
+[I 2022-06-15 14:06:49.385 ServerApp] Creating new notebook in 
+[I 2022-06-15 14:06:50.176 ServerApp] Kernel started: fba66582-c105-4387-982d-6a2769f183a9
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: e2c4d43a-8550-415e-beef-3a32eac0d48e
+[I 2022-06-15 14:07:46.661 ServerApp] Saving file at /Untitled10.ipynb
+[W 2022-06-15 14:09:50.747 ServerApp] WebSocket ping timeout after 119938 ms.
+[W 2022-06-15 14:09:51.185 ServerApp] WebSocket ping timeout after 119910 ms.
+[I 2022-06-15 14:09:56.186 ServerApp] Starting buffering for fba66582-c105-4387-982d-6a2769f183a9:7e90eb3e-c372-4814-9b3f-b80435707ac5
+[W 2022-06-15 14:10:01.473 ServerApp] WebSocket ping timeout after 119313 ms.
+[W 2022-06-15 14:10:01.723 ServerApp] WebSocket ping timeout after 119531 ms.
+[W 2022-06-15 14:10:01.790 ServerApp] WebSocket ping timeout after 119598 ms.
+[W 2022-06-15 14:10:01.999 ServerApp] WebSocket ping timeout after 119807 ms.
+[W 2022-06-15 14:10:02.121 ServerApp] WebSocket ping timeout after 119892 ms.
+[I 2022-06-15 14:10:06.474 ServerApp] Starting buffering for 29cf5d60-7c38-415c-991b-8ffba66fef5b:e5db9daf-2d47-42e4-9025-aa2875ab5fd5
+[I 2022-06-15 14:10:06.724 ServerApp] Starting buffering for 879666e6-abb6-4947-8567-e92c6eeb27e7:7c91eba0-55fa-43e4-9131-a0852f6fed6e
+[I 2022-06-15 14:10:06.792 ServerApp] Starting buffering for 16c3cacc-6ad4-47f1-ad95-cf5f177c6650:1bd03960-0dca-4ae9-8974-871fb85ca7a8
+[I 2022-06-15 14:10:06.999 ServerApp] Starting buffering for 2728012c-4c3b-46f0-a507-554f5b09a01f:85370540-d619-4743-830b-a0f7bd4d4415
+[I 2022-06-15 14:10:07.122 ServerApp] Starting buffering for bcc1eae3-c7b5-469a-b74d-f5752e76203f:397ac13d-164a-42f1-8aa2-0668e8c896cf
+[I 2022-06-15 14:10:43.139 ServerApp] Restoring connection for 29cf5d60-7c38-415c-991b-8ffba66fef5b:e5db9daf-2d47-42e4-9025-aa2875ab5fd5
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: df5c7c7d-d5cc-4575-a30f-0760c43778a3
+[I 2022-06-15 14:10:43.311 ServerApp] Restoring connection for 879666e6-abb6-4947-8567-e92c6eeb27e7:7c91eba0-55fa-43e4-9131-a0852f6fed6e
+[I 2022-06-15 14:10:43.404 ServerApp] Restoring connection for 16c3cacc-6ad4-47f1-ad95-cf5f177c6650:1bd03960-0dca-4ae9-8974-871fb85ca7a8
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 59e97487-cf67-47d2-ade2-fa19286e6efd
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: f9f2de89-5d2a-446e-af29-74e20cecaec2
+[I 2022-06-15 14:10:43.514 ServerApp] Restoring connection for 2728012c-4c3b-46f0-a507-554f5b09a01f:85370540-d619-4743-830b-a0f7bd4d4415
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: bd3512f5-6e8d-4e15-b2b3-3ee61420b992
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: c8493f6f-5c63-4997-a96e-281118432002
+[I 2022-06-15 14:10:43.683 ServerApp] Restoring connection for bcc1eae3-c7b5-469a-b74d-f5752e76203f:397ac13d-164a-42f1-8aa2-0668e8c896cf
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: fe72ee19-f822-40d5-84c0-85446db01b63
+[W 2022-06-15 14:52:43.140 ServerApp] WebSocket ping timeout after 119898 ms.
+[W 2022-06-15 14:52:43.311 ServerApp] WebSocket ping timeout after 119861 ms.
+[W 2022-06-15 14:52:43.405 ServerApp] WebSocket ping timeout after 119901 ms.
+[W 2022-06-15 14:52:43.514 ServerApp] WebSocket ping timeout after 119927 ms.
+[W 2022-06-15 14:52:43.550 ServerApp] WebSocket ping timeout after 119911 ms.
+[W 2022-06-15 14:52:43.684 ServerApp] WebSocket ping timeout after 119943 ms.
+[W 2022-06-15 14:52:43.758 ServerApp] WebSocket ping timeout after 119926 ms.
+[I 2022-06-15 14:52:48.141 ServerApp] Starting buffering for 29cf5d60-7c38-415c-991b-8ffba66fef5b:e5db9daf-2d47-42e4-9025-aa2875ab5fd5
+[I 2022-06-15 14:52:48.312 ServerApp] Starting buffering for 879666e6-abb6-4947-8567-e92c6eeb27e7:7c91eba0-55fa-43e4-9131-a0852f6fed6e
+[I 2022-06-15 14:52:48.406 ServerApp] Starting buffering for 16c3cacc-6ad4-47f1-ad95-cf5f177c6650:1bd03960-0dca-4ae9-8974-871fb85ca7a8
+[I 2022-06-15 14:52:48.516 ServerApp] Starting buffering for 2728012c-4c3b-46f0-a507-554f5b09a01f:85370540-d619-4743-830b-a0f7bd4d4415
+[I 2022-06-15 14:52:48.686 ServerApp] Starting buffering for bcc1eae3-c7b5-469a-b74d-f5752e76203f:397ac13d-164a-42f1-8aa2-0668e8c896cf
+[I 2022-06-15 14:52:48.759 ServerApp] Starting buffering for fba66582-c105-4387-982d-6a2769f183a9:7e90eb3e-c372-4814-9b3f-b80435707ac5
+[W 2022-06-15 16:43:29.569 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2022-06-15 16:43:31.646 ServerApp] Notebook 年月別日数.ipynb is not trusted
+[W 2022-06-15 16:43:31.732 ServerApp] Notebook 数え上げ.ipynb is not trusted
+[W 2022-06-15 16:43:31.821 ServerApp] Notebook 適中の日の風向.ipynb is not trusted
+[W 2022-06-15 16:43:31.871 ServerApp] Notebook 適中気圧.ipynb is not trusted
+[W 2022-06-15 16:43:31.902 ServerApp] Notebook Untitled10.ipynb is not trusted
+[W 2022-06-15 16:43:31.949 ServerApp] Notebook 気圧2.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 53b6c80e-946a-4959-a800-1e933d37e3ff
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 45c5da74-44e8-467b-b32e-b1371ec8b89f
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: a86b7099-97fd-49f7-ba94-2b68fd7cc300
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 3d870500-d8d1-4106-9241-6c012cf89495
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 7b0231c2-b148-47dc-8d69-f7e411fa3fd2
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: ac5cbc04-a29f-426d-a1e2-02451661ecf1
+[I 2022-06-15 16:45:33.212 ServerApp] Saving file at /適中の日の風向.ipynb
+[W 2022-06-15 16:45:33.212 ServerApp] Notebook 適中の日の風向.ipynb is not trusted
+[I 2022-06-15 16:47:33.502 ServerApp] Saving file at /適中の日の風向.ipynb
+[W 2022-06-15 16:47:33.503 ServerApp] Notebook 適中の日の風向.ipynb is not trusted
+[I 2022-06-15 16:49:33.554 ServerApp] Saving file at /Untitled10.ipynb
+[W 2022-06-15 16:49:33.555 ServerApp] Notebook Untitled10.ipynb is not trusted
+[I 2022-06-15 16:49:33.843 ServerApp] Saving file at /適中の日の風向.ipynb
+[W 2022-06-15 16:49:33.844 ServerApp] Notebook 適中の日の風向.ipynb is not trusted
+[I 2022-06-15 16:51:34.813 ServerApp] Saving file at /Untitled10.ipynb
+[W 2022-06-15 16:51:34.813 ServerApp] Notebook Untitled10.ipynb is not trusted
+[I 2022-06-15 16:51:35.288 ServerApp] Saving file at /適中の日の風向.ipynb
+[W 2022-06-15 16:51:35.288 ServerApp] Notebook 適中の日の風向.ipynb is not trusted
+[W 2022-06-15 16:52:35.365 ServerApp] Notebook 風向と等高線.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 9d5f7b58-5bb1-4511-83e9-05d6a41883f2
+[W 2022-06-15 16:52:50.147 ServerApp] Notebook 風向のプロット.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 0658a4aa-9f8d-437c-ac2d-ed4dbe9b02fb
+[I 2022-06-15 16:52:56.954 ServerApp] Starting buffering for 6de79082-8a47-476a-b2d2-eb756d78dc37:e0585726-1934-41da-b3fb-4161d233afc7
+[W 2022-06-15 16:53:23.070 ServerApp] Notebook 高層天気図.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: f8141703-c4aa-4c40-a52a-9ff300278cb1
+[I 2022-06-15 16:53:35.860 ServerApp] Saving file at /適中の日の風向.ipynb
+[I 2022-06-15 16:53:37.718 ServerApp] Kernel shutdown: 162fd03b-d3c3-4d50-acef-4ec5d65911b0
+[W 2022-06-15 16:53:38.502 ServerApp] delete /高層天気図.ipynb
+[W 2022-06-15 16:53:38.503 ServerApp] Skipping trash for /mnt/meteo-hdd02/konagai/高層天気図.ipynb, on different device to home directory
+[W 2022-06-15 16:53:43.100 ServerApp] Notebook 気圧の描画.ipynb is not trusted
+[I 2022-06-15 16:53:44.914 ServerApp] Kernel started: b700e274-2902-4b7e-9f1f-ee57a2bbf226
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: c2de15f6-afd1-4bf1-9fe8-6ab60fa5a664
+[I 2022-06-15 16:53:54.999 ServerApp] Starting buffering for b700e274-2902-4b7e-9f1f-ee57a2bbf226:88f0e778-68d4-45fd-b2c0-f5446f53a098
+[W 2022-06-15 16:53:57.934 ServerApp] Notebook 気圧1年平均基本.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: ff564bce-60f1-4dbe-9c03-78a13b8c6acc
+[I 2022-06-15 16:54:03.055 ServerApp] Starting buffering for c5bf1143-ce3f-48e7-b453-face2985bf2d:a8e83d5a-4792-461d-8ac6-ced26f317af0
+[W 2022-06-15 16:54:08.418 ServerApp] Notebook 当たり旧ver.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: f4033ef3-f134-43e3-8471-85367968a5a1
+[I 2022-06-15 16:54:15.844 ServerApp] Starting buffering for ae19d548-7a8d-44a3-bac6-1aa2642964c5:b87f01ba-17f5-4e05-8767-ee5abd085cf9
+[W 2022-06-15 16:54:23.523 ServerApp] Notebook 等高線のプロット.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 2d2c2fb4-c0d5-49a0-9643-766cf9901dd7
+[W 2022-06-15 16:54:45.987 ServerApp] Notebook Untitled5.ipynb is not trusted
+[W 2022-06-15 16:54:47.603 ServerApp] Notebook Untitled6.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 73217a22-ec75-4d0f-aded-9b4fb3cb3a18
+[W 2022-06-15 16:54:49.873 ServerApp] Notebook Untitled7.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 284e769b-4422-4fe9-bf68-6df184b27f1e
+[W 2022-06-15 16:54:52.663 ServerApp] Notebook Untitled8.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: efee6f02-26a5-4863-a525-94f1a66c3983
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 72ab498c-ba8d-4cbe-8b69-7193d02fe9b6
+[W 2022-06-15 16:54:58.867 ServerApp] Notebook Untitled2.ipynb is not trusted
+[I 2022-06-15 16:54:59.315 ServerApp] Kernel started: b9b950f2-3bf7-40d9-a7b2-63143149e159
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 344dea3f-9e14-48b1-bb62-4f11bcdce479
+[I 2022-06-15 16:55:05.773 ServerApp] Kernel shutdown: b9b950f2-3bf7-40d9-a7b2-63143149e159
+[W 2022-06-15 16:55:06.184 ServerApp] delete /Untitled2.ipynb
+[W 2022-06-15 16:55:06.185 ServerApp] Skipping trash for /mnt/meteo-hdd02/konagai/Untitled2.ipynb, on different device to home directory
+[W 2022-06-15 16:55:07.471 ServerApp] Notebook Untitled4.ipynb is not trusted
+[I 2022-06-15 16:55:07.882 ServerApp] Kernel started: bd098b24-6092-4702-ae5c-05ab21871960
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 7e7b0f88-48c0-4fa6-8caa-3f06be61b77b
+[I 2022-06-15 16:55:22.560 ServerApp] Kernel shutdown: bd098b24-6092-4702-ae5c-05ab21871960
+[W 2022-06-15 16:55:22.920 ServerApp] delete /Untitled4.ipynb
+[W 2022-06-15 16:55:22.921 ServerApp] Skipping trash for /mnt/meteo-hdd02/konagai/Untitled4.ipynb, on different device to home directory
+[W 2022-06-15 16:55:24.198 ServerApp] Notebook Untitled3.ipynb is not trusted
+[I 2022-06-15 16:55:24.700 ServerApp] Kernel started: 475ff543-858e-4f50-8546-306504462c3b
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 472d7756-e369-485a-befa-b94e370896f8
+[I 2022-06-15 16:55:40.814 ServerApp] Kernel shutdown: 7b5bbe9e-25cb-4892-be71-8bc5ec131c0d
+[W 2022-06-15 16:55:41.253 ServerApp] delete /Untitled6.ipynb
+[W 2022-06-15 16:55:41.254 ServerApp] Skipping trash for /mnt/meteo-hdd02/konagai/Untitled6.ipynb, on different device to home directory
+[W 2022-06-15 16:55:53.681 ServerApp] Notebook Untitled9.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 6c399b0b-c2f7-4852-b567-607dc0bcbdde
+[I 2022-06-15 16:55:58.933 ServerApp] Starting buffering for 01858f5a-0bf8-468d-9c53-e2ebf20a5867:2a8a4b70-ae13-4e2a-a01a-cbe8d930b57c
+[I 2022-06-15 16:56:00.346 ServerApp] Starting buffering for 475ff543-858e-4f50-8546-306504462c3b:77174f96-736c-4301-971b-394552839a5c
+[I 2022-06-15 16:56:10.618 ServerApp] Starting buffering for 836d657a-7318-4e86-8cb1-0f3202b7b88c:45ec01d0-ef9e-4b36-bf16-7fedb062cda0
+[I 2022-06-15 16:56:14.337 ServerApp] Starting buffering for 06fd4a22-3a65-4339-83d5-8d44f0865587:c114d0af-2943-4d78-87af-c5a0485e08f5
+[I 2022-06-15 16:56:15.938 ServerApp] Starting buffering for 3592c3c9-2613-4416-be77-75123e608992:5e56f829-6f95-4f72-a02c-4abfe170678f
+[I 2022-06-15 16:56:41.726 ServerApp] Starting buffering for fba66582-c105-4387-982d-6a2769f183a9:986b5225-b034-413c-afa1-8947a4f158ff
+[W 2022-06-15 16:56:50.647 ServerApp] Notebook Untitled10.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: c9621802-4d8c-4dc0-b546-d49499e14347
+[I 2022-06-15 16:56:55.728 ServerApp] Kernel shutdown: fba66582-c105-4387-982d-6a2769f183a9
+[W 2022-06-15 16:56:56.246 ServerApp] delete /Untitled10.ipynb
+[W 2022-06-15 16:56:56.246 ServerApp] Skipping trash for /mnt/meteo-hdd02/konagai/Untitled10.ipynb, on different device to home directory
+[I 2022-06-15 16:56:59.323 ServerApp] Saving file at /適中の日の風向.ipynb
+[I 2022-06-15 16:58:59.593 ServerApp] Saving file at /適中の日の風向.ipynb
+[I 2022-06-15 17:05:00.184 ServerApp] Saving file at /適中の日の風向.ipynb
+[I 2022-06-15 17:09:33.591 ServerApp] Saving file at /適中気圧.ipynb
+[W 2022-06-15 17:09:33.591 ServerApp] Notebook 適中気圧.ipynb is not trusted
+[I 2022-06-15 17:15:00.841 ServerApp] Saving file at /適中の日の風向.ipynb
+[I 2022-06-15 17:15:33.957 ServerApp] Saving file at /適中気圧.ipynb
+[W 2022-06-15 17:15:33.957 ServerApp] Notebook 適中気圧.ipynb is not trusted
+[I 2022-06-15 17:17:34.206 ServerApp] Saving file at /適中気圧.ipynb
+[W 2022-06-15 17:17:34.207 ServerApp] Notebook 適中気圧.ipynb is not trusted
+[I 2022-06-15 17:19:34.685 ServerApp] Saving file at /適中気圧.ipynb
+[W 2022-06-15 17:19:34.685 ServerApp] Notebook 適中気圧.ipynb is not trusted
+[I 2022-06-15 17:21:36.871 ServerApp] Saving file at /適中気圧.ipynb
+[W 2022-06-15 17:21:36.872 ServerApp] Notebook 適中気圧.ipynb is not trusted
+[I 2022-06-15 17:23:37.484 ServerApp] Saving file at /適中気圧.ipynb
+[W 2022-06-15 17:23:37.484 ServerApp] Notebook 適中気圧.ipynb is not trusted
+[I 2022-06-15 17:25:38.314 ServerApp] Saving file at /適中気圧.ipynb
+[W 2022-06-15 17:25:38.314 ServerApp] Notebook 適中気圧.ipynb is not trusted
+[I 2022-06-15 17:27:38.775 ServerApp] Saving file at /適中気圧.ipynb
+[W 2022-06-15 17:27:38.776 ServerApp] Notebook 適中気圧.ipynb is not trusted
+[I 2022-06-15 17:29:39.284 ServerApp] Saving file at /適中気圧.ipynb
+[W 2022-06-15 17:29:39.285 ServerApp] Notebook 適中気圧.ipynb is not trusted
+[I 2022-06-15 17:31:39.877 ServerApp] Saving file at /適中気圧.ipynb
+[W 2022-06-15 17:31:39.878 ServerApp] Notebook 適中気圧.ipynb is not trusted
+[I 2022-06-15 17:33:40.498 ServerApp] Saving file at /適中気圧.ipynb
+[W 2022-06-15 17:33:40.498 ServerApp] Notebook 適中気圧.ipynb is not trusted
+[I 2022-06-15 17:41:41.940 ServerApp] Saving file at /適中気圧.ipynb
+[W 2022-06-15 17:41:41.940 ServerApp] Notebook 適中気圧.ipynb is not trusted
+[I 2022-06-15 17:43:42.732 ServerApp] Saving file at /適中気圧.ipynb
+[I 2022-06-15 17:45:43.668 ServerApp] Saving file at /適中気圧.ipynb
+[I 2022-06-15 17:47:46.677 ServerApp] Saving file at /適中気圧.ipynb
+[I 2022-06-15 17:49:47.677 ServerApp] Saving file at /適中気圧.ipynb
+[I 2022-06-15 17:51:48.601 ServerApp] Saving file at /適中気圧.ipynb
+[I 2022-06-15 17:53:49.483 ServerApp] Saving file at /適中気圧.ipynb
+[I 2022-06-15 17:55:50.250 ServerApp] Saving file at /適中気圧.ipynb
+[I 2022-06-15 18:01:51.006 ServerApp] Saving file at /適中気圧.ipynb
+[W 2022-06-15 18:19:24.258 ServerApp] WebSocket ping timeout after 106360 ms.
+[I 2022-06-15 18:19:29.259 ServerApp] Starting buffering for 2ace96a7-cf29-4448-97c6-62055bc566a4:0c7d9c92-af8f-4beb-9af1-5b77e19982c5
+[W 2022-06-15 18:19:33.604 ServerApp] WebSocket ping timeout after 115706 ms.
+[W 2022-06-15 18:19:33.643 ServerApp] WebSocket ping timeout after 115745 ms.
+[W 2022-06-15 18:19:33.672 ServerApp] WebSocket ping timeout after 115774 ms.
+[W 2022-06-15 18:19:33.712 ServerApp] WebSocket ping timeout after 115814 ms.
+[W 2022-06-15 18:19:33.934 ServerApp] WebSocket ping timeout after 116035 ms.
+[W 2022-06-15 18:19:36.819 ServerApp] WebSocket ping timeout after 118922 ms.
+[I 2022-06-15 18:19:38.606 ServerApp] Starting buffering for 879666e6-abb6-4947-8567-e92c6eeb27e7:5ebd9907-bc61-423d-922d-b4d1513ffb1f
+[I 2022-06-15 18:19:38.645 ServerApp] Starting buffering for 29cf5d60-7c38-415c-991b-8ffba66fef5b:820c150f-f9c1-48f2-accc-038ef1b8da5a
+[I 2022-06-15 18:19:38.673 ServerApp] Starting buffering for 16c3cacc-6ad4-47f1-ad95-cf5f177c6650:10244a05-b10e-40e7-a40b-902b3e5d105a
+[I 2022-06-15 18:19:38.714 ServerApp] Starting buffering for bcc1eae3-c7b5-469a-b74d-f5752e76203f:93cb991a-ce97-415e-a583-5bf014f80c7d
+[I 2022-06-15 18:19:38.935 ServerApp] Starting buffering for 2728012c-4c3b-46f0-a507-554f5b09a01f:ede041e5-96b5-454f-a154-0f705f746319
+[I 2022-06-15 18:19:41.822 ServerApp] Starting buffering for e7ccece9-5f58-4721-b606-28e0908172a9:dc345cda-be74-404b-a469-8767352354ef
+[I 2022-06-17 18:30:53.333 ServerApp] AsyncIOLoopKernelRestarter: restarting kernel (1/5), keep random ports
+[W 2022-06-19 16:15:13.458 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2022-06-19 16:15:15.594 ServerApp] Notebook 気圧2.ipynb is not trusted
+[W 2022-06-19 16:15:15.661 ServerApp] Notebook 適中の日の風向.ipynb is not trusted
+[W 2022-06-19 16:15:15.786 ServerApp] Notebook 数え上げ.ipynb is not trusted
+[W 2022-06-19 16:15:15.878 ServerApp] Notebook 年月別日数.ipynb is not trusted
+[W 2022-06-19 16:15:15.970 ServerApp] Notebook 適中気圧.ipynb is not trusted
+[W 2022-06-19 16:15:16.318 ServerApp] Notebook 風向と等高線.ipynb is not trusted
+[W 2022-06-19 16:15:16.439 ServerApp] Notebook 等高線のプロット.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 54af58af-3acf-4358-bed3-e16ba3ac1f04
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: a631d5c0-57c1-418d-988b-88a2640d70a2
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 702d3a75-60e3-4d07-8ba3-dd0177770874
+[IPKernelApp] WARNING | No such comm: 5fe2f017-a458-49ba-8404-275f4b950b9f
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 7d2e8738-ede9-4e90-9fe9-03274251c9c2
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: b87fc0ef-dc7b-41de-aa5f-58fe13d236a2
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 888935e9-02e3-4417-9d02-8d56eefb3444
+[I 2022-06-19 16:23:19.823 ServerApp] Saving file at /適中気圧.ipynb
+[W 2022-06-19 16:23:19.824 ServerApp] Notebook 適中気圧.ipynb is not trusted
+[W 2022-06-19 16:24:24.189 ServerApp] Notebook 気圧の描画.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 8b7a6b20-a101-425d-b92b-c716c4178e26
+[I 2022-06-19 16:24:31.486 ServerApp] Starting buffering for b700e274-2902-4b7e-9f1f-ee57a2bbf226:044bb09b-f2c2-44ed-8be0-a3789d50b6ad
+[I 2022-06-19 16:27:23.371 ServerApp] Saving file at /適中気圧.ipynb
+[W 2022-06-19 16:27:23.372 ServerApp] Notebook 適中気圧.ipynb is not trusted
+[I 2022-06-19 16:29:25.763 ServerApp] Saving file at /適中気圧.ipynb
+[W 2022-06-19 16:29:25.763 ServerApp] Notebook 適中気圧.ipynb is not trusted
+[I 2022-06-19 16:31:27.204 ServerApp] Saving file at /適中気圧.ipynb
+[W 2022-06-19 16:31:27.204 ServerApp] Notebook 適中気圧.ipynb is not trusted
+[I 2022-06-19 16:33:30.337 ServerApp] Saving file at /適中気圧.ipynb
+[W 2022-06-19 16:33:30.338 ServerApp] Notebook 適中気圧.ipynb is not trusted
+[I 2022-06-19 16:39:34.014 ServerApp] Saving file at /適中気圧.ipynb
+[W 2022-06-19 16:39:34.014 ServerApp] Notebook 適中気圧.ipynb is not trusted
+[I 2022-06-19 16:41:35.314 ServerApp] Saving file at /適中気圧.ipynb
+[W 2022-06-19 16:41:35.315 ServerApp] Notebook 適中気圧.ipynb is not trusted
+[I 2022-06-19 16:43:38.205 ServerApp] Saving file at /適中気圧.ipynb
+[W 2022-06-19 16:43:38.205 ServerApp] Notebook 適中気圧.ipynb is not trusted
+[I 2022-06-19 16:45:40.142 ServerApp] Saving file at /適中気圧.ipynb
+[W 2022-06-19 16:45:40.142 ServerApp] Notebook 適中気圧.ipynb is not trusted
+[I 2022-06-19 16:47:41.863 ServerApp] Saving file at /適中気圧.ipynb
+[W 2022-06-19 16:47:41.863 ServerApp] Notebook 適中気圧.ipynb is not trusted
+[I 2022-06-19 16:49:44.008 ServerApp] Saving file at /適中気圧.ipynb
+[W 2022-06-19 16:49:44.009 ServerApp] Notebook 適中気圧.ipynb is not trusted
+[I 2022-06-19 16:51:48.459 ServerApp] Saving file at /適中気圧.ipynb
+[W 2022-06-19 16:51:48.459 ServerApp] Notebook 適中気圧.ipynb is not trusted
+[I 2022-06-19 16:53:52.573 ServerApp] Saving file at /適中気圧.ipynb
+[W 2022-06-19 16:53:52.573 ServerApp] Notebook 適中気圧.ipynb is not trusted
+[I 2022-06-19 16:55:54.522 ServerApp] Saving file at /適中気圧.ipynb
+[W 2022-06-19 16:55:54.523 ServerApp] Notebook 適中気圧.ipynb is not trusted
+[I 2022-06-19 16:56:15.473 ServerApp] Kernel restarted: bcc1eae3-c7b5-469a-b74d-f5752e76203f
+[I 2022-06-19 16:56:15.759 ServerApp] Starting buffering for bcc1eae3-c7b5-469a-b74d-f5752e76203f:be8b01e8-3b82-4e22-9036-b3ab20c57984
+[I 2022-06-19 16:56:15.883 ServerApp] Restoring connection for bcc1eae3-c7b5-469a-b74d-f5752e76203f:be8b01e8-3b82-4e22-9036-b3ab20c57984
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: bd855bf7-78a5-4cd2-89b2-73853da36857
+[I 2022-06-19 16:57:57.186 ServerApp] Saving file at /適中気圧.ipynb
+[W 2022-06-19 16:57:57.186 ServerApp] Notebook 適中気圧.ipynb is not trusted
+[I 2022-06-19 16:59:59.683 ServerApp] Saving file at /適中気圧.ipynb
+[W 2022-06-19 16:59:59.683 ServerApp] Notebook 適中気圧.ipynb is not trusted
+[I 2022-06-19 17:04:01.839 ServerApp] Saving file at /適中気圧.ipynb
+[W 2022-06-19 17:04:01.839 ServerApp] Notebook 適中気圧.ipynb is not trusted
+[I 2022-06-19 17:06:04.630 ServerApp] Saving file at /適中気圧.ipynb
+[W 2022-06-19 17:06:04.630 ServerApp] Notebook 適中気圧.ipynb is not trusted
+[I 2022-06-19 17:08:05.915 ServerApp] Saving file at /適中気圧.ipynb
+[W 2022-06-19 17:08:05.915 ServerApp] Notebook 適中気圧.ipynb is not trusted
+[I 2022-06-19 17:08:26.437 ServerApp] Saving file at /適中気圧.ipynb
+[W 2022-06-19 17:08:26.437 ServerApp] Notebook 適中気圧.ipynb is not trusted
+[W 2022-06-19 17:10:19.167 ServerApp] WebSocket ping timeout after 119820 ms.
+[W 2022-06-19 17:10:19.328 ServerApp] WebSocket ping timeout after 119922 ms.
+[W 2022-06-19 17:10:19.528 ServerApp] WebSocket ping timeout after 119941 ms.
+[W 2022-06-19 17:10:19.547 ServerApp] WebSocket ping timeout after 119902 ms.
+[W 2022-06-19 17:10:19.749 ServerApp] WebSocket ping timeout after 119785 ms.
+[W 2022-06-19 17:10:20.134 ServerApp] WebSocket ping timeout after 119760 ms.
+[I 2022-06-19 17:10:24.168 ServerApp] Starting buffering for 2728012c-4c3b-46f0-a507-554f5b09a01f:7074ec8b-6c37-419d-a005-0638a6457f00
+[I 2022-06-19 17:10:24.329 ServerApp] Starting buffering for 16c3cacc-6ad4-47f1-ad95-cf5f177c6650:71d91624-9114-470e-9091-e959813b0db8
+[I 2022-06-19 17:10:24.529 ServerApp] Starting buffering for 29cf5d60-7c38-415c-991b-8ffba66fef5b:ee62ea7b-4c48-454e-bbca-82a571daa52c
+[I 2022-06-19 17:10:24.549 ServerApp] Starting buffering for 879666e6-abb6-4947-8567-e92c6eeb27e7:fc18d522-d994-49e8-9bb8-831e7f3879e8
+[I 2022-06-19 17:10:24.752 ServerApp] Starting buffering for e7ccece9-5f58-4721-b606-28e0908172a9:7d2ed428-f303-4a21-a1c8-bc5d82b17cae
+[I 2022-06-19 17:10:25.136 ServerApp] Starting buffering for 2ace96a7-cf29-4448-97c6-62055bc566a4:02e111b3-49c1-4a1c-bd85-f4755ec115e5
+[W 2022-06-19 17:10:45.884 ServerApp] WebSocket ping timeout after 101854 ms.
+[I 2022-06-19 17:10:50.886 ServerApp] Starting buffering for bcc1eae3-c7b5-469a-b74d-f5752e76203f:be8b01e8-3b82-4e22-9036-b3ab20c57984
+[W 2022-06-21 13:30:03.801 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2022-06-21 13:30:06.601 ServerApp] Notebook 気圧2.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 43cfee96-dac7-4700-aee9-abea88466403
+[W 2022-06-21 13:30:36.266 ServerApp] Notebook 適中気圧.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 9bae8593-d027-42a0-a811-460ffe3ff00b
+[W 2022-06-21 14:01:04.694 ServerApp] Notebook 雲海9月.ipynb is not trusted
+[I 2022-06-21 14:01:05.844 ServerApp] Kernel started: 469fcd15-f1e0-4500-9cb4-441c93bbffea
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: cfd5a59e-be6a-4cfb-a312-99efb74783bd
+[W 2022-06-21 14:05:26.682 ServerApp] WebSocket ping timeout after 98722 ms.
+[I 2022-06-21 14:05:31.683 ServerApp] Starting buffering for 2728012c-4c3b-46f0-a507-554f5b09a01f:fcf9784e-3411-4098-b44d-122ce5c02326
+[W 2022-06-21 14:05:36.524 ServerApp] WebSocket ping timeout after 108564 ms.
+[W 2022-06-21 14:05:36.587 ServerApp] WebSocket ping timeout after 108627 ms.
+[W 2022-06-21 14:05:37.878 ServerApp] WebSocket ping timeout after 109918 ms.
+[I 2022-06-21 14:05:41.589 ServerApp] Starting buffering for 469fcd15-f1e0-4500-9cb4-441c93bbffea:6dc87f9d-109e-4da2-8c2a-50401f3e8325
+[I 2022-06-21 14:05:42.880 ServerApp] Starting buffering for bcc1eae3-c7b5-469a-b74d-f5752e76203f:01822e68-ee6b-4351-bcf2-3053bbd0cf0b
+[I 2022-06-21 14:07:47.432 ServerApp] Restoring connection for 469fcd15-f1e0-4500-9cb4-441c93bbffea:6dc87f9d-109e-4da2-8c2a-50401f3e8325
+[I 2022-06-21 14:07:47.487 ServerApp] Restoring connection for 2728012c-4c3b-46f0-a507-554f5b09a01f:fcf9784e-3411-4098-b44d-122ce5c02326
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 03dacc06-ee48-4ce8-ac53-a09f45eea596
+[I 2022-06-21 14:07:47.536 ServerApp] Restoring connection for bcc1eae3-c7b5-469a-b74d-f5752e76203f:01822e68-ee6b-4351-bcf2-3053bbd0cf0b
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 717a9ff5-1398-4ddb-bfda-4edea48c9cd0
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 5e7fabce-1b4d-439a-abfb-0ecfd6953a91
+[I 2022-06-21 14:09:17.920 LabApp] 302 GET /lab?token=5c18fd1077a0f68e8ec286a3ce626d3521ac60c0b6f43b68 (::1) 0.69ms
+[I 2022-06-21 14:09:43.448 LabApp] 302 GET /lab?token=5c18fd1077a0f68e8ec286a3ce626d3521ac60c0b6f43b68 (::1) 0.73ms
+[W 2022-06-21 14:10:17.432 ServerApp] WebSocket ping timeout after 119988 ms.
+[W 2022-06-21 14:10:17.487 ServerApp] WebSocket ping timeout after 119959 ms.
+[W 2022-06-21 14:10:17.536 ServerApp] WebSocket ping timeout after 119988 ms.
+[W 2022-06-21 14:10:17.538 ServerApp] WebSocket ping timeout after 119978 ms.
+[I 2022-06-21 14:10:22.488 ServerApp] Starting buffering for 2728012c-4c3b-46f0-a507-554f5b09a01f:fcf9784e-3411-4098-b44d-122ce5c02326
+[I 2022-06-21 14:10:22.538 ServerApp] Starting buffering for bcc1eae3-c7b5-469a-b74d-f5752e76203f:01822e68-ee6b-4351-bcf2-3053bbd0cf0b
+[I 2022-06-21 14:10:22.539 ServerApp] Starting buffering for 469fcd15-f1e0-4500-9cb4-441c93bbffea:6b52e2dc-1130-4911-a6ac-4dfbb88d2e10
+[W 2022-06-23 20:56:01.045 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2022-06-23 20:56:24.453 ServerApp] 404 GET /api/contents/konagai/%E9%9B%B2%E6%B5%B7%E6%9C%88%E6%97%A5%E6%95%B07%E6%9C%88.png?content=0&1655984764770 (::1): No such file or directory: konagai/雲海月日数7月.png
+[W 2022-06-23 20:56:24.454 ServerApp] No such file or directory: konagai/雲海月日数7月.png
+[W 2022-06-23 20:56:24.454 ServerApp] 404 GET /api/contents/konagai/%E9%9B%B2%E6%B5%B7%E6%9C%88%E6%97%A5%E6%95%B07%E6%9C%88.png?content=0&1655984764770 (::1) 9114.73ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-23 20:56:24.456 ServerApp] 404 GET /api/contents/konagai/2012.csv?content=0&1655984764772 (::1): No such file or directory: konagai/2012.csv
+[W 2022-06-23 20:56:24.456 ServerApp] No such file or directory: konagai/2012.csv
+[W 2022-06-23 20:56:24.456 ServerApp] 404 GET /api/contents/konagai/2012.csv?content=0&1655984764772 (::1) 1.34ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-23 20:56:24.459 ServerApp] 404 GET /api/contents/konagai/%E9%9B%B2%E6%B5%B72007.csv?content=0&1655984764774 (::1): No such file or directory: konagai/雲海2007.csv
+[W 2022-06-23 20:56:24.459 ServerApp] No such file or directory: konagai/雲海2007.csv
+[W 2022-06-23 20:56:24.459 ServerApp] 404 GET /api/contents/konagai/%E9%9B%B2%E6%B5%B72007.csv?content=0&1655984764774 (::1) 1.32ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-23 20:56:24.460 ServerApp] 404 GET /api/contents/konagai/%E9%9B%B2%E6%B5%B72008.csv?content=0&1655984764777 (::1): No such file or directory: konagai/雲海2008.csv
+[W 2022-06-23 20:56:24.460 ServerApp] No such file or directory: konagai/雲海2008.csv
+[W 2022-06-23 20:56:24.460 ServerApp] 404 GET /api/contents/konagai/%E9%9B%B2%E6%B5%B72008.csv?content=0&1655984764777 (::1) 1.39ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-23 20:56:24.461 ServerApp] 404 GET /api/contents/konagai/%E9%9B%B2%E6%B5%B72009.csv?content=0&1655984764779 (::1): No such file or directory: konagai/雲海2009.csv
+[W 2022-06-23 20:56:24.461 ServerApp] No such file or directory: konagai/雲海2009.csv
+[W 2022-06-23 20:56:24.461 ServerApp] 404 GET /api/contents/konagai/%E9%9B%B2%E6%B5%B72009.csv?content=0&1655984764779 (::1) 1.44ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-23 20:56:24.461 ServerApp] 404 GET /api/contents/konagai/%E9%9B%B2%E6%B5%B72010.csv?content=0&1655984764782 (::1): No such file or directory: konagai/雲海2010.csv
+[W 2022-06-23 20:56:24.461 ServerApp] No such file or directory: konagai/雲海2010.csv
+[W 2022-06-23 20:56:24.461 ServerApp] 404 GET /api/contents/konagai/%E9%9B%B2%E6%B5%B72010.csv?content=0&1655984764782 (::1) 1.52ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-23 20:56:24.506 ServerApp] 404 GET /api/contents/konagai/%E9%9B%B2%E6%B5%B72011.csv?content=0&1655984764787 (::1): No such file or directory: konagai/雲海2011.csv
+[W 2022-06-23 20:56:24.507 ServerApp] No such file or directory: konagai/雲海2011.csv
+[W 2022-06-23 20:56:24.507 ServerApp] 404 GET /api/contents/konagai/%E9%9B%B2%E6%B5%B72011.csv?content=0&1655984764787 (::1) 1.44ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-23 20:56:24.517 ServerApp] 404 GET /api/contents/konagai/%E9%9B%B2%E6%B5%B72006.csv?content=0&1655984764789 (::1): No such file or directory: konagai/雲海2006.csv
+[W 2022-06-23 20:56:24.517 ServerApp] No such file or directory: konagai/雲海2006.csv
+[W 2022-06-23 20:56:24.518 ServerApp] 404 GET /api/contents/konagai/%E9%9B%B2%E6%B5%B72006.csv?content=0&1655984764789 (::1) 0.84ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-23 20:56:24.521 ServerApp] 404 GET /api/contents/konagai/2014.csv?content=0&1655984764791 (::1): No such file or directory: konagai/2014.csv
+[W 2022-06-23 20:56:24.521 ServerApp] No such file or directory: konagai/2014.csv
+[W 2022-06-23 20:56:24.522 ServerApp] 404 GET /api/contents/konagai/2014.csv?content=0&1655984764791 (::1) 1.46ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-23 20:56:24.522 ServerApp] 404 GET /api/contents/konagai/2015.csv?content=0&1655984764793 (::1): No such file or directory: konagai/2015.csv
+[W 2022-06-23 20:56:24.522 ServerApp] No such file or directory: konagai/2015.csv
+[W 2022-06-23 20:56:24.522 ServerApp] 404 GET /api/contents/konagai/2015.csv?content=0&1655984764793 (::1) 1.47ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-23 20:56:24.522 ServerApp] 404 GET /api/contents/konagai/2013.csv?content=0&1655984764795 (::1): No such file or directory: konagai/2013.csv
+[W 2022-06-23 20:56:24.522 ServerApp] No such file or directory: konagai/2013.csv
+[W 2022-06-23 20:56:24.523 ServerApp] 404 GET /api/contents/konagai/2013.csv?content=0&1655984764795 (::1) 1.54ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-23 20:56:24.549 ServerApp] 404 GET /api/contents/konagai/2017.csv?content=0&1655984764797 (::1): No such file or directory: konagai/2017.csv
+[W 2022-06-23 20:56:24.549 ServerApp] No such file or directory: konagai/2017.csv
+[W 2022-06-23 20:56:24.550 ServerApp] 404 GET /api/contents/konagai/2017.csv?content=0&1655984764797 (::1) 0.69ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-23 20:56:24.574 ServerApp] 404 GET /api/contents/konagai/2018.csv?content=0&1655984764799 (::1): No such file or directory: konagai/2018.csv
+[W 2022-06-23 20:56:24.574 ServerApp] No such file or directory: konagai/2018.csv
+[W 2022-06-23 20:56:24.574 ServerApp] 404 GET /api/contents/konagai/2018.csv?content=0&1655984764799 (::1) 0.69ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-23 20:56:24.576 ServerApp] 404 GET /api/contents/konagai/%E6%95%B0%E3%81%88%E4%B8%8A%E3%81%92.ipynb?content=0&1655984764802 (::1): No such file or directory: konagai/数え上げ.ipynb
+[W 2022-06-23 20:56:24.576 ServerApp] No such file or directory: konagai/数え上げ.ipynb
+[W 2022-06-23 20:56:24.576 ServerApp] 404 GET /api/contents/konagai/%E6%95%B0%E3%81%88%E4%B8%8A%E3%81%92.ipynb?content=0&1655984764802 (::1) 1.34ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-23 20:56:24.576 ServerApp] 404 GET /api/contents/konagai/%E5%B9%B4%E6%9C%88%E5%88%A5%E6%97%A5%E6%95%B0.ipynb?content=0&1655984764807 (::1): No such file or directory: konagai/年月別日数.ipynb
+[W 2022-06-23 20:56:24.577 ServerApp] No such file or directory: konagai/年月別日数.ipynb
+[W 2022-06-23 20:56:24.577 ServerApp] 404 GET /api/contents/konagai/%E5%B9%B4%E6%9C%88%E5%88%A5%E6%97%A5%E6%95%B0.ipynb?content=0&1655984764807 (::1) 1.41ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-23 20:56:24.577 ServerApp] 404 GET /api/contents/konagai/2006~2021%E6%B0%97%E5%9C%A7%E5%B9%B4%E5%B9%B3%E5%9D%87.ipynb?content=0&1655984764804 (::1): No such file or directory: konagai/2006~2021気圧年平均.ipynb
+[W 2022-06-23 20:56:24.577 ServerApp] No such file or directory: konagai/2006~2021気圧年平均.ipynb
+[W 2022-06-23 20:56:24.577 ServerApp] 404 GET /api/contents/konagai/2006~2021%E6%B0%97%E5%9C%A7%E5%B9%B4%E5%B9%B3%E5%9D%87.ipynb?content=0&1655984764804 (::1) 1.49ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-23 20:56:24.598 ServerApp] 404 GET /api/contents/konagai/%E6%95%B0%E3%81%88%E4%B8%8A%E3%81%922.ipynb?content=0&1655984764808 (::1): No such file or directory: konagai/数え上げ2.ipynb
+[W 2022-06-23 20:56:24.598 ServerApp] No such file or directory: konagai/数え上げ2.ipynb
+[W 2022-06-23 20:56:24.598 ServerApp] 404 GET /api/contents/konagai/%E6%95%B0%E3%81%88%E4%B8%8A%E3%81%922.ipynb?content=0&1655984764808 (::1) 0.90ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-23 20:56:24.634 ServerApp] 404 GET /api/contents/konagai/%E9%9B%B2%E6%B5%B76%E6%9C%88.ipynb?content=0&1655984764812 (::1): No such file or directory: konagai/雲海6月.ipynb
+[W 2022-06-23 20:56:24.634 ServerApp] No such file or directory: konagai/雲海6月.ipynb
+[W 2022-06-23 20:56:24.635 ServerApp] 404 GET /api/contents/konagai/%E9%9B%B2%E6%B5%B76%E6%9C%88.ipynb?content=0&1655984764812 (::1) 1.93ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-23 20:56:24.635 ServerApp] 404 GET /api/contents/konagai/%E9%9B%B2%E6%B5%B77%E6%9C%88.ipynb?content=0&1655984764810 (::1): No such file or directory: konagai/雲海7月.ipynb
+[W 2022-06-23 20:56:24.635 ServerApp] No such file or directory: konagai/雲海7月.ipynb
+[W 2022-06-23 20:56:24.635 ServerApp] 404 GET /api/contents/konagai/%E9%9B%B2%E6%B5%B77%E6%9C%88.ipynb?content=0&1655984764810 (::1) 1.63ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-23 20:56:24.636 ServerApp] 404 GET /api/contents/konagai/%E6%B0%97%E5%9C%A71%E3%81%8B%E6%9C%88%E5%B9%B3%E5%9D%87.ipynb?content=0&1655984764814 (::1): No such file or directory: konagai/気圧1か月平均.ipynb
+[W 2022-06-23 20:56:24.636 ServerApp] No such file or directory: konagai/気圧1か月平均.ipynb
+[W 2022-06-23 20:56:24.637 ServerApp] 404 GET /api/contents/konagai/%E6%B0%97%E5%9C%A71%E3%81%8B%E6%9C%88%E5%B9%B3%E5%9D%87.ipynb?content=0&1655984764814 (::1) 1.17ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-23 20:56:24.637 ServerApp] 404 GET /api/contents/konagai/Untitled2.ipynb?content=0&1655984764815 (::1): No such file or directory: konagai/Untitled2.ipynb
+[W 2022-06-23 20:56:24.637 ServerApp] No such file or directory: konagai/Untitled2.ipynb
+[W 2022-06-23 20:56:24.637 ServerApp] 404 GET /api/contents/konagai/Untitled2.ipynb?content=0&1655984764815 (::1) 1.16ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-23 20:56:24.657 ServerApp] 404 GET /api/contents/konagai/%E9%81%A9%E4%B8%AD%E6%B0%97%E5%9C%A7.ipynb?content=0&1655984764818 (::1): No such file or directory: konagai/適中気圧.ipynb
+[W 2022-06-23 20:56:24.657 ServerApp] No such file or directory: konagai/適中気圧.ipynb
+[W 2022-06-23 20:56:24.657 ServerApp] 404 GET /api/contents/konagai/%E9%81%A9%E4%B8%AD%E6%B0%97%E5%9C%A7.ipynb?content=0&1655984764818 (::1) 1.46ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-23 20:56:24.688 ServerApp] 404 GET /api/contents/konagai/Untitled4.ipynb?content=0&1655984764819 (::1): No such file or directory: konagai/Untitled4.ipynb
+[W 2022-06-23 20:56:24.688 ServerApp] No such file or directory: konagai/Untitled4.ipynb
+[W 2022-06-23 20:56:24.688 ServerApp] 404 GET /api/contents/konagai/Untitled4.ipynb?content=0&1655984764819 (::1) 1.42ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-23 21:05:18.428 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2022-06-23 21:05:19.509 ServerApp] 404 GET /api/contents/konagai/%E9%9B%B2%E6%B5%B7%E6%9C%88%E6%97%A5%E6%95%B07%E6%9C%88.png?content=0&1655985309372 (::1): No such file or directory: konagai/雲海月日数7月.png
+[W 2022-06-23 21:05:19.509 ServerApp] No such file or directory: konagai/雲海月日数7月.png
+[W 2022-06-23 21:05:19.509 ServerApp] 404 GET /api/contents/konagai/%E9%9B%B2%E6%B5%B7%E6%9C%88%E6%97%A5%E6%95%B07%E6%9C%88.png?content=0&1655985309372 (::1) 1.76ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-23 21:05:19.512 ServerApp] 404 GET /api/contents/konagai/2012.csv?content=0&1655985309374 (::1): No such file or directory: konagai/2012.csv
+[W 2022-06-23 21:05:19.512 ServerApp] No such file or directory: konagai/2012.csv
+[W 2022-06-23 21:05:19.513 ServerApp] 404 GET /api/contents/konagai/2012.csv?content=0&1655985309374 (::1) 1.14ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-23 21:05:19.533 ServerApp] 404 GET /api/contents/konagai/%E9%9B%B2%E6%B5%B72008.csv?content=0&1655985309379 (::1): No such file or directory: konagai/雲海2008.csv
+[W 2022-06-23 21:05:19.534 ServerApp] No such file or directory: konagai/雲海2008.csv
+[W 2022-06-23 21:05:19.534 ServerApp] 404 GET /api/contents/konagai/%E9%9B%B2%E6%B5%B72008.csv?content=0&1655985309379 (::1) 2.03ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-23 21:05:19.534 ServerApp] 404 GET /api/contents/konagai/%E9%9B%B2%E6%B5%B72007.csv?content=0&1655985309376 (::1): No such file or directory: konagai/雲海2007.csv
+[W 2022-06-23 21:05:19.534 ServerApp] No such file or directory: konagai/雲海2007.csv
+[W 2022-06-23 21:05:19.534 ServerApp] 404 GET /api/contents/konagai/%E9%9B%B2%E6%B5%B72007.csv?content=0&1655985309376 (::1) 1.70ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-23 21:05:19.535 ServerApp] 404 GET /api/contents/konagai/%E9%9B%B2%E6%B5%B72009.csv?content=0&1655985309381 (::1): No such file or directory: konagai/雲海2009.csv
+[W 2022-06-23 21:05:19.535 ServerApp] No such file or directory: konagai/雲海2009.csv
+[W 2022-06-23 21:05:19.536 ServerApp] 404 GET /api/contents/konagai/%E9%9B%B2%E6%B5%B72009.csv?content=0&1655985309381 (::1) 1.00ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-23 21:05:19.537 ServerApp] 404 GET /api/contents/konagai/%E9%9B%B2%E6%B5%B72010.csv?content=0&1655985309384 (::1): No such file or directory: konagai/雲海2010.csv
+[W 2022-06-23 21:05:19.537 ServerApp] No such file or directory: konagai/雲海2010.csv
+[W 2022-06-23 21:05:19.537 ServerApp] 404 GET /api/contents/konagai/%E9%9B%B2%E6%B5%B72010.csv?content=0&1655985309384 (::1) 0.83ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-23 21:05:19.566 ServerApp] 404 GET /api/contents/konagai/%E9%9B%B2%E6%B5%B72011.csv?content=0&1655985309387 (::1): No such file or directory: konagai/雲海2011.csv
+[W 2022-06-23 21:05:19.566 ServerApp] No such file or directory: konagai/雲海2011.csv
+[W 2022-06-23 21:05:19.567 ServerApp] 404 GET /api/contents/konagai/%E9%9B%B2%E6%B5%B72011.csv?content=0&1655985309387 (::1) 1.58ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-23 21:05:19.593 ServerApp] 404 GET /api/contents/konagai/%E9%9B%B2%E6%B5%B72006.csv?content=0&1655985309392 (::1): No such file or directory: konagai/雲海2006.csv
+[W 2022-06-23 21:05:19.593 ServerApp] No such file or directory: konagai/雲海2006.csv
+[W 2022-06-23 21:05:19.593 ServerApp] 404 GET /api/contents/konagai/%E9%9B%B2%E6%B5%B72006.csv?content=0&1655985309392 (::1) 1.52ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-23 21:05:19.594 ServerApp] 404 GET /api/contents/konagai/2014.csv?content=0&1655985309396 (::1): No such file or directory: konagai/2014.csv
+[W 2022-06-23 21:05:19.594 ServerApp] No such file or directory: konagai/2014.csv
+[W 2022-06-23 21:05:19.594 ServerApp] 404 GET /api/contents/konagai/2014.csv?content=0&1655985309396 (::1) 0.90ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-23 21:05:19.601 ServerApp] 404 GET /api/contents/konagai/2015.csv?content=0&1655985309399 (::1): No such file or directory: konagai/2015.csv
+[W 2022-06-23 21:05:19.602 ServerApp] No such file or directory: konagai/2015.csv
+[W 2022-06-23 21:05:19.602 ServerApp] 404 GET /api/contents/konagai/2015.csv?content=0&1655985309399 (::1) 1.42ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-23 21:05:19.603 ServerApp] 404 GET /api/contents/konagai/2013.csv?content=0&1655985309402 (::1): No such file or directory: konagai/2013.csv
+[W 2022-06-23 21:05:19.603 ServerApp] No such file or directory: konagai/2013.csv
+[W 2022-06-23 21:05:19.603 ServerApp] 404 GET /api/contents/konagai/2013.csv?content=0&1655985309402 (::1) 0.90ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-23 21:05:19.621 ServerApp] 404 GET /api/contents/konagai/2017.csv?content=0&1655985309404 (::1): No such file or directory: konagai/2017.csv
+[W 2022-06-23 21:05:19.622 ServerApp] No such file or directory: konagai/2017.csv
+[W 2022-06-23 21:05:19.622 ServerApp] 404 GET /api/contents/konagai/2017.csv?content=0&1655985309404 (::1) 1.55ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-23 21:05:19.646 ServerApp] 404 GET /api/contents/konagai/2018.csv?content=0&1655985309407 (::1): No such file or directory: konagai/2018.csv
+[W 2022-06-23 21:05:19.646 ServerApp] No such file or directory: konagai/2018.csv
+[W 2022-06-23 21:05:19.647 ServerApp] 404 GET /api/contents/konagai/2018.csv?content=0&1655985309407 (::1) 1.60ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-23 21:05:19.657 ServerApp] 404 GET /api/contents/konagai/%E6%95%B0%E3%81%88%E4%B8%8A%E3%81%92.ipynb?content=0&1655985309410 (::1): No such file or directory: konagai/数え上げ.ipynb
+[W 2022-06-23 21:05:19.657 ServerApp] No such file or directory: konagai/数え上げ.ipynb
+[W 2022-06-23 21:05:19.658 ServerApp] 404 GET /api/contents/konagai/%E6%95%B0%E3%81%88%E4%B8%8A%E3%81%92.ipynb?content=0&1655985309410 (::1) 1.67ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-23 21:05:19.659 ServerApp] 404 GET /api/contents/konagai/2006~2021%E6%B0%97%E5%9C%A7%E5%B9%B4%E5%B9%B3%E5%9D%87.ipynb?content=0&1655985309412 (::1): No such file or directory: konagai/2006~2021気圧年平均.ipynb
+[W 2022-06-23 21:05:19.659 ServerApp] No such file or directory: konagai/2006~2021気圧年平均.ipynb
+[W 2022-06-23 21:05:19.659 ServerApp] 404 GET /api/contents/konagai/2006~2021%E6%B0%97%E5%9C%A7%E5%B9%B4%E5%B9%B3%E5%9D%87.ipynb?content=0&1655985309412 (::1) 1.04ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-23 21:05:19.664 ServerApp] 404 GET /api/contents/konagai/%E5%B9%B4%E6%9C%88%E5%88%A5%E6%97%A5%E6%95%B0.ipynb?content=0&1655985309414 (::1): No such file or directory: konagai/年月別日数.ipynb
+[W 2022-06-23 21:05:19.664 ServerApp] No such file or directory: konagai/年月別日数.ipynb
+[W 2022-06-23 21:05:19.664 ServerApp] 404 GET /api/contents/konagai/%E5%B9%B4%E6%9C%88%E5%88%A5%E6%97%A5%E6%95%B0.ipynb?content=0&1655985309414 (::1) 1.22ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-23 21:05:19.668 ServerApp] 404 GET /api/contents/konagai/%E6%95%B0%E3%81%88%E4%B8%8A%E3%81%922.ipynb?content=0&1655985309416 (::1): No such file or directory: konagai/数え上げ2.ipynb
+[W 2022-06-23 21:05:19.668 ServerApp] No such file or directory: konagai/数え上げ2.ipynb
+[W 2022-06-23 21:05:19.668 ServerApp] 404 GET /api/contents/konagai/%E6%95%B0%E3%81%88%E4%B8%8A%E3%81%922.ipynb?content=0&1655985309416 (::1) 1.06ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-23 21:05:19.732 ServerApp] 404 GET /api/contents/konagai/%E9%9B%B2%E6%B5%B77%E6%9C%88.ipynb?content=0&1655985309419 (::1): No such file or directory: konagai/雲海7月.ipynb
+[W 2022-06-23 21:05:19.733 ServerApp] No such file or directory: konagai/雲海7月.ipynb
+[W 2022-06-23 21:05:19.733 ServerApp] 404 GET /api/contents/konagai/%E9%9B%B2%E6%B5%B77%E6%9C%88.ipynb?content=0&1655985309419 (::1) 1.61ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-23 21:05:19.735 ServerApp] 404 GET /api/contents/konagai/%E9%9B%B2%E6%B5%B76%E6%9C%88.ipynb?content=0&1655985309423 (::1): No such file or directory: konagai/雲海6月.ipynb
+[W 2022-06-23 21:05:19.736 ServerApp] No such file or directory: konagai/雲海6月.ipynb
+[W 2022-06-23 21:05:19.736 ServerApp] 404 GET /api/contents/konagai/%E9%9B%B2%E6%B5%B76%E6%9C%88.ipynb?content=0&1655985309423 (::1) 2.02ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-23 21:05:19.736 ServerApp] 404 GET /api/contents/konagai/%E6%B0%97%E5%9C%A71%E3%81%8B%E6%9C%88%E5%B9%B3%E5%9D%87.ipynb?content=0&1655985309425 (::1): No such file or directory: konagai/気圧1か月平均.ipynb
+[W 2022-06-23 21:05:19.736 ServerApp] No such file or directory: konagai/気圧1か月平均.ipynb
+[W 2022-06-23 21:05:19.736 ServerApp] 404 GET /api/contents/konagai/%E6%B0%97%E5%9C%A71%E3%81%8B%E6%9C%88%E5%B9%B3%E5%9D%87.ipynb?content=0&1655985309425 (::1) 2.03ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-23 21:05:19.736 ServerApp] 404 GET /api/contents/konagai/Untitled2.ipynb?content=0&1655985309427 (::1): No such file or directory: konagai/Untitled2.ipynb
+[W 2022-06-23 21:05:19.737 ServerApp] No such file or directory: konagai/Untitled2.ipynb
+[W 2022-06-23 21:05:19.737 ServerApp] 404 GET /api/contents/konagai/Untitled2.ipynb?content=0&1655985309427 (::1) 2.09ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-23 21:05:19.737 ServerApp] 404 GET /api/contents/konagai/%E9%81%A9%E4%B8%AD%E6%B0%97%E5%9C%A7.ipynb?content=0&1655985309432 (::1): No such file or directory: konagai/適中気圧.ipynb
+[W 2022-06-23 21:05:19.737 ServerApp] No such file or directory: konagai/適中気圧.ipynb
+[W 2022-06-23 21:05:19.737 ServerApp] 404 GET /api/contents/konagai/%E9%81%A9%E4%B8%AD%E6%B0%97%E5%9C%A7.ipynb?content=0&1655985309432 (::1) 2.19ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-23 21:05:19.771 ServerApp] 404 GET /api/contents/konagai/Untitled4.ipynb?content=0&1655985309435 (::1): No such file or directory: konagai/Untitled4.ipynb
+[W 2022-06-23 21:05:19.771 ServerApp] No such file or directory: konagai/Untitled4.ipynb
+[W 2022-06-23 21:05:19.772 ServerApp] 404 GET /api/contents/konagai/Untitled4.ipynb?content=0&1655985309435 (::1) 1.40ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-06-23 21:05:21.987 ServerApp] Notebook 気圧2.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 85a97f31-5909-4416-b1fa-ec95040efa1b
+[W 2022-06-23 21:05:52.714 ServerApp] Notebook 16年平均.ipynb is not trusted
+[I 2022-06-23 21:05:55.474 ServerApp] Kernel started: 7958bf58-1546-4416-9cb8-450171ec6870
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 7be8f0fe-57ce-4057-b67d-b5d33cda584c
+[I 2022-06-23 21:07:53.900 ServerApp] Saving file at /16年平均.ipynb
+[I 2022-06-23 21:41:54.372 ServerApp] Saving file at /16年平均.ipynb
+[W 2022-06-23 21:44:35.177 ServerApp] Notebook Untitled4.ipynb is not trusted
+[I 2022-06-23 21:44:36.680 ServerApp] Kernel started: e58c57ca-d064-4998-ad40-fb3c9b770e8a
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 68b15651-afff-4023-b910-5913d77aa1a3
+[I 2022-06-23 21:46:36.116 ServerApp] Saving file at /16年空振り.ipynb
+[I 2022-06-23 22:20:36.591 ServerApp] Saving file at /16年空振り.ipynb
+[I 2022-06-23 22:22:37.557 ServerApp] Saving file at /16年空振り.ipynb
+[I 2022-06-23 22:23:53.155 ServerApp] Creating new notebook in 
+[I 2022-06-23 22:23:54.186 ServerApp] Kernel started: 6e3d60c5-3598-460f-8aeb-aa4317c41847
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 7297162c-7b31-4d01-8722-5d77ab9eda4a
+[I 2022-06-23 22:25:53.688 ServerApp] Saving file at /16年適中なし天気図.ipynb
+[I 2022-06-23 22:27:54.036 ServerApp] Saving file at /16年適中なし天気図.ipynb
+[I 2022-06-23 22:52:19.463 ServerApp] AsyncIOLoopKernelRestarter: restarting kernel (1/5), keep random ports
+kernel 7958bf58-1546-4416-9cb8-450171ec6870 restarted
+kernel 7958bf58-1546-4416-9cb8-450171ec6870 restarted
+[I 2022-06-23 22:52:19.658 ServerApp] Starting buffering for 7958bf58-1546-4416-9cb8-450171ec6870:a37cf93f-10bd-4d94-baf9-e08577439aff
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 8d8d6cbc-059e-4b8c-a02d-e8e8e7e5ce3c
+[I 2022-06-23 22:59:54.550 ServerApp] Saving file at /16年適中なし天気図.ipynb
+[I 2022-06-23 23:00:40.893 ServerApp] Saving file at /16年適中なし天気図.ipynb
+[I 2022-06-23 23:06:37.832 ServerApp] Starting buffering for e58c57ca-d064-4998-ad40-fb3c9b770e8a:dbbf1284-12a2-474b-a4aa-1b62719b9228
+[I 2022-06-23 23:06:37.833 ServerApp] Starting buffering for 2728012c-4c3b-46f0-a507-554f5b09a01f:a47551f6-f553-4fab-81ae-aa25223e07d5
+[I 2022-06-23 23:06:37.834 ServerApp] Starting buffering for 6e3d60c5-3598-460f-8aeb-aa4317c41847:69034632-44e3-45eb-b647-5f023dfd3cfd
+[I 2022-06-23 23:06:37.834 ServerApp] Starting buffering for 7958bf58-1546-4416-9cb8-450171ec6870:a37cf93f-10bd-4d94-baf9-e08577439aff
+[I 2022-06-28 13:24:33.670 ServerApp] AsyncIOLoopKernelRestarter: restarting kernel (1/5), keep random ports
+[I 2022-06-30 08:33:54.175 ServerApp] AsyncIOLoopKernelRestarter: restarting kernel (1/5), keep random ports
+[W 2022-07-01 11:30:52.946 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2022-07-01 11:30:54.102 ServerApp] 404 GET /api/contents/konagai/%E9%81%A9%E4%B8%AD%E5%A4%A9%E6%B0%97%E5%9B%B3.png?content=0&1656642018238 (::1): No such file or directory: konagai/適中天気図.png
+[W 2022-07-01 11:30:54.103 ServerApp] No such file or directory: konagai/適中天気図.png
+[W 2022-07-01 11:30:54.103 ServerApp] 404 GET /api/contents/konagai/%E9%81%A9%E4%B8%AD%E5%A4%A9%E6%B0%97%E5%9B%B3.png?content=0&1656642018238 (::1) 1.83ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-07-01 11:30:54.109 ServerApp] 404 GET /api/contents/konagai/%E9%9B%B2%E6%B5%B72006.csv?content=0&1656642018241 (::1): No such file or directory: konagai/雲海2006.csv
+[W 2022-07-01 11:30:54.109 ServerApp] No such file or directory: konagai/雲海2006.csv
+[W 2022-07-01 11:30:54.110 ServerApp] 404 GET /api/contents/konagai/%E9%9B%B2%E6%B5%B72006.csv?content=0&1656642018241 (::1) 0.98ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-07-01 11:30:54.111 ServerApp] 404 GET /api/contents/konagai/Untitled7.ipynb?content=0&1656642018244 (::1): No such file or directory: konagai/Untitled7.ipynb
+[W 2022-07-01 11:30:54.111 ServerApp] No such file or directory: konagai/Untitled7.ipynb
+[W 2022-07-01 11:30:54.111 ServerApp] 404 GET /api/contents/konagai/Untitled7.ipynb?content=0&1656642018244 (::1) 0.73ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-07-01 11:30:54.116 ServerApp] 404 GET /api/contents/konagai/Untitled5.ipynb?content=0&1656642018247 (::1): No such file or directory: konagai/Untitled5.ipynb
+[W 2022-07-01 11:30:54.116 ServerApp] No such file or directory: konagai/Untitled5.ipynb
+[W 2022-07-01 11:30:54.116 ServerApp] 404 GET /api/contents/konagai/Untitled5.ipynb?content=0&1656642018247 (::1) 0.76ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-07-01 11:30:54.117 ServerApp] 404 GET /api/contents/konagai/Untitled3.ipynb?content=0&1656642018253 (::1): No such file or directory: konagai/Untitled3.ipynb
+[W 2022-07-01 11:30:54.117 ServerApp] No such file or directory: konagai/Untitled3.ipynb
+[W 2022-07-01 11:30:54.117 ServerApp] 404 GET /api/contents/konagai/Untitled3.ipynb?content=0&1656642018253 (::1) 0.74ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-07-01 11:30:54.124 ServerApp] 404 GET /api/contents/konagai/16%E5%B9%B4%E9%81%A9%E4%B8%AD%E3%81%AA%E3%81%97%E5%A4%A9%E6%B0%97%E5%9B%B3.ipynb?content=0&1656642018258 (::1): No such file or directory: konagai/16年適中なし天気図.ipynb
+[W 2022-07-01 11:30:54.124 ServerApp] No such file or directory: konagai/16年適中なし天気図.ipynb
+[W 2022-07-01 11:30:54.124 ServerApp] 404 GET /api/contents/konagai/16%E5%B9%B4%E9%81%A9%E4%B8%AD%E3%81%AA%E3%81%97%E5%A4%A9%E6%B0%97%E5%9B%B3.ipynb?content=0&1656642018258 (::1) 0.78ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-07-01 11:30:54.153 ServerApp] 404 GET /api/contents/konagai/2006~2021%E6%B0%97%E5%9C%A7%E5%B9%B4%E5%B9%B3%E5%9D%87.ipynb?content=0&1656642018262 (::1): No such file or directory: konagai/2006~2021気圧年平均.ipynb
+[W 2022-07-01 11:30:54.153 ServerApp] No such file or directory: konagai/2006~2021気圧年平均.ipynb
+[W 2022-07-01 11:30:54.154 ServerApp] 404 GET /api/contents/konagai/2006~2021%E6%B0%97%E5%9C%A7%E5%B9%B4%E5%B9%B3%E5%9D%87.ipynb?content=0&1656642018262 (::1) 0.79ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-07-01 11:30:54.177 ServerApp] 404 GET /api/contents/konagai/%E6%B0%97%E5%9C%A7%E4%B8%80%E3%81%8B%E6%9C%88%E5%B9%B3%E5%9D%87%E5%9F%BA%E6%9C%AC.ipynb?content=0&1656642018265 (::1): No such file or directory: konagai/気圧一か月平均基本.ipynb
+[W 2022-07-01 11:30:54.177 ServerApp] No such file or directory: konagai/気圧一か月平均基本.ipynb
+[W 2022-07-01 11:30:54.177 ServerApp] 404 GET /api/contents/konagai/%E6%B0%97%E5%9C%A7%E4%B8%80%E3%81%8B%E6%9C%88%E5%B9%B3%E5%9D%87%E5%9F%BA%E6%9C%AC.ipynb?content=0&1656642018265 (::1) 0.82ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-07-01 11:30:54.178 ServerApp] 404 GET /api/contents/konagai/%E9%9B%B2%E6%B5%B710%E6%9C%88.ipynb?content=0&1656642018268 (::1): No such file or directory: konagai/雲海10月.ipynb
+[W 2022-07-01 11:30:54.178 ServerApp] No such file or directory: konagai/雲海10月.ipynb
+[W 2022-07-01 11:30:54.178 ServerApp] 404 GET /api/contents/konagai/%E9%9B%B2%E6%B5%B710%E6%9C%88.ipynb?content=0&1656642018268 (::1) 0.79ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-07-01 11:30:54.235 ServerApp] 404 GET /api/contents/konagai/Untitled8.ipynb?content=0&1656642018272 (::1): No such file or directory: konagai/Untitled8.ipynb
+[W 2022-07-01 11:30:54.235 ServerApp] No such file or directory: konagai/Untitled8.ipynb
+[W 2022-07-01 11:30:54.235 ServerApp] 404 GET /api/contents/konagai/Untitled8.ipynb?content=0&1656642018272 (::1) 1.12ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-07-01 11:30:54.235 ServerApp] 404 GET /api/contents/konagai/Untitled9.ipynb?content=0&1656642018275 (::1): No such file or directory: konagai/Untitled9.ipynb
+[W 2022-07-01 11:30:54.235 ServerApp] No such file or directory: konagai/Untitled9.ipynb
+[W 2022-07-01 11:30:54.235 ServerApp] 404 GET /api/contents/konagai/Untitled9.ipynb?content=0&1656642018275 (::1) 1.19ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-07-01 11:30:54.247 ServerApp] 404 GET /api/contents/konagai/%E5%B9%B4%E6%9C%88%E5%88%A5%E6%97%A5%E6%95%B0.ipynb?content=0&1656642018277 (::1): No such file or directory: konagai/年月別日数.ipynb
+[W 2022-07-01 11:30:54.247 ServerApp] No such file or directory: konagai/年月別日数.ipynb
+[W 2022-07-01 11:30:54.247 ServerApp] 404 GET /api/contents/konagai/%E5%B9%B4%E6%9C%88%E5%88%A5%E6%97%A5%E6%95%B0.ipynb?content=0&1656642018277 (::1) 0.77ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-07-01 11:30:54.249 ServerApp] 404 GET /api/contents/konagai/%E6%95%B0%E3%81%88%E4%B8%8A%E3%81%922.ipynb?content=0&1656642018280 (::1): No such file or directory: konagai/数え上げ2.ipynb
+[W 2022-07-01 11:30:54.249 ServerApp] No such file or directory: konagai/数え上げ2.ipynb
+[W 2022-07-01 11:30:54.249 ServerApp] 404 GET /api/contents/konagai/%E6%95%B0%E3%81%88%E4%B8%8A%E3%81%922.ipynb?content=0&1656642018280 (::1) 0.76ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-07-01 11:30:54.285 ServerApp] 404 GET /api/contents/konagai/%E6%95%B0%E3%81%88%E4%B8%8A%E3%81%92.ipynb?content=0&1656642018283 (::1): No such file or directory: konagai/数え上げ.ipynb
+[W 2022-07-01 11:30:54.285 ServerApp] No such file or directory: konagai/数え上げ.ipynb
+[W 2022-07-01 11:30:54.285 ServerApp] 404 GET /api/contents/konagai/%E6%95%B0%E3%81%88%E4%B8%8A%E3%81%92.ipynb?content=0&1656642018283 (::1) 0.80ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-07-01 11:30:54.287 ServerApp] 404 GET /api/contents/konagai/%E6%B0%97%E5%9C%A72.ipynb?content=0&1656642018285 (::1): No such file or directory: konagai/気圧2.ipynb
+[W 2022-07-01 11:30:54.288 ServerApp] No such file or directory: konagai/気圧2.ipynb
+[W 2022-07-01 11:30:54.288 ServerApp] 404 GET /api/contents/konagai/%E6%B0%97%E5%9C%A72.ipynb?content=0&1656642018285 (::1) 0.76ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-07-01 11:30:54.300 ServerApp] 404 GET /api/contents/konagai/%E6%B0%97%E5%9C%A71%E3%81%8B%E6%9C%88%E5%B9%B3%E5%9D%87.ipynb?content=0&1656642018288 (::1): No such file or directory: konagai/気圧1か月平均.ipynb
+[W 2022-07-01 11:30:54.300 ServerApp] No such file or directory: konagai/気圧1か月平均.ipynb
+[W 2022-07-01 11:30:54.300 ServerApp] 404 GET /api/contents/konagai/%E6%B0%97%E5%9C%A71%E3%81%8B%E6%9C%88%E5%B9%B3%E5%9D%87.ipynb?content=0&1656642018288 (::1) 0.78ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-07-01 11:30:54.302 ServerApp] 404 GET /api/contents/konagai/%E6%B0%97%E5%9C%A71%E5%B9%B4%E5%B9%B3%E5%9D%87%E5%9F%BA%E6%9C%AC.ipynb?content=0&1656642018291 (::1): No such file or directory: konagai/気圧1年平均基本.ipynb
+[W 2022-07-01 11:30:54.302 ServerApp] No such file or directory: konagai/気圧1年平均基本.ipynb
+[W 2022-07-01 11:30:54.302 ServerApp] 404 GET /api/contents/konagai/%E6%B0%97%E5%9C%A71%E5%B9%B4%E5%B9%B3%E5%9D%87%E5%9F%BA%E6%9C%AC.ipynb?content=0&1656642018291 (::1) 0.78ms referer=http://localhost:8886/lab/tree/%E6%B0%97%E5%9C%A72.ipynb
+[W 2022-07-01 11:30:55.726 ServerApp] Notebook 気圧2.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 70144de5-c8ea-448d-9de5-5d5d50dadaa4
+[W 2022-07-01 11:31:15.805 ServerApp] Notebook 2006~2021気圧年平均.ipynb is not trusted
+[I 2022-07-01 11:31:17.364 ServerApp] Kernel started: 3aec6915-4ef3-4579-ae8b-316e411ebd09
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 328b790c-b676-414d-b154-9765e1034545
+[W 2022-07-01 11:31:25.594 ServerApp] Notebook 適中気圧.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 7b7a0056-3194-4071-a46f-a8c3101c0408
+[I 2022-07-01 11:33:17.390 ServerApp] Saving file at /2006~2021気圧年平均.ipynb
+[W 2022-07-01 11:33:17.390 ServerApp] Notebook 2006~2021気圧年平均.ipynb is not trusted
+[I 2022-07-01 11:35:18.715 ServerApp] Saving file at /2006~2021気圧年平均.ipynb
+[I 2022-07-01 11:37:19.524 ServerApp] Saving file at /2006~2021気圧年平均.ipynb
+[I 2022-07-01 11:39:20.375 ServerApp] Saving file at /2006~2021気圧年平均.ipynb
+[I 2022-07-01 11:41:20.995 ServerApp] Saving file at /2006~2021気圧年平均.ipynb
+[I 2022-07-01 11:43:21.257 ServerApp] Saving file at /2006~2021気圧年平均.ipynb
+[I 2022-07-01 11:45:22.352 ServerApp] Saving file at /2006~2021気圧年平均.ipynb
+[I 2022-07-01 11:47:23.331 ServerApp] Saving file at /2006~2021気圧年平均.ipynb
+[I 2022-07-01 11:49:24.195 ServerApp] Saving file at /2006~2021気圧年平均.ipynb
+[I 2022-07-01 11:53:25.168 ServerApp] Saving file at /2006~2021気圧年平均.ipynb
+[I 2022-07-01 11:57:25.929 ServerApp] Saving file at /2006~2021気圧年平均.ipynb
+[I 2022-07-01 11:59:26.515 ServerApp] Saving file at /2006~2021気圧年平均.ipynb
+[I 2022-07-01 12:01:27.099 ServerApp] Saving file at /2006~2021気圧年平均.ipynb
+[I 2022-07-01 12:03:28.131 ServerApp] Saving file at /2006~2021気圧年平均.ipynb
+[I 2022-07-01 12:05:28.874 ServerApp] Saving file at /2006~2021気圧年平均.ipynb
+[I 2022-07-01 12:07:29.457 ServerApp] Saving file at /2006~2021気圧年平均.ipynb
+[I 2022-07-01 12:09:30.392 ServerApp] Saving file at /2006~2021気圧年平均.ipynb
+[I 2022-07-01 12:11:31.000 ServerApp] Saving file at /2006~2021気圧年平均.ipynb
+[I 2022-07-01 12:13:31.643 ServerApp] Saving file at /2006~2021気圧年平均.ipynb
+[I 2022-07-01 12:15:33.007 ServerApp] Saving file at /2006~2021気圧年平均.ipynb
+[I 2022-07-01 12:19:33.627 ServerApp] Saving file at /2006~2021気圧年平均.ipynb
+[I 2022-07-01 12:21:34.186 ServerApp] Saving file at /2006~2021気圧年平均.ipynb
+[I 2022-07-01 12:23:34.917 ServerApp] Saving file at /2006~2021気圧年平均.ipynb
+[I 2022-07-01 12:25:35.556 ServerApp] Saving file at /2006~2021気圧年平均.ipynb
+[I 2022-07-01 12:27:36.073 ServerApp] Saving file at /2006~2021気圧年平均.ipynb
+[I 2022-07-01 12:29:36.586 ServerApp] Saving file at /2006~2021気圧年平均.ipynb
+[I 2022-07-01 12:33:37.815 ServerApp] Saving file at /2006~2021気圧年平均.ipynb
+[I 2022-07-01 12:35:38.557 ServerApp] Saving file at /2006~2021気圧年平均.ipynb
+[I 2022-07-01 12:37:39.481 ServerApp] Saving file at /2006~2021気圧年平均.ipynb
+[I 2022-07-01 12:39:40.016 ServerApp] Saving file at /2006~2021気圧年平均.ipynb
+[I 2022-07-01 12:41:40.461 ServerApp] Saving file at /2006~2021気圧年平均.ipynb
+[I 2022-07-01 12:42:02.353 ServerApp] AsyncIOLoopKernelRestarter: restarting kernel (1/5), keep random ports
+kernel 3aec6915-4ef3-4579-ae8b-316e411ebd09 restarted
+kernel 3aec6915-4ef3-4579-ae8b-316e411ebd09 restarted
+[I 2022-07-01 12:42:02.515 ServerApp] Starting buffering for 3aec6915-4ef3-4579-ae8b-316e411ebd09:5a0e060c-95ca-4214-906c-86e261a00518
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 6c058dc2-a1cc-4d8b-8250-dd84ef8dffc0
+[W 2022-07-01 12:42:31.405 ServerApp] Notebook Untitled.ipynb is not trusted
+[W 2022-07-01 12:42:34.410 ServerApp] Notebook 雲海10月.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 370ce0ad-3300-49a9-ae70-21addece7150
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: f0b38b3e-087a-4476-9644-8a103f1b2b1a
+[I 2022-07-01 12:43:41.582 ServerApp] Saving file at /2006~2021気圧年平均.ipynb
+[I 2022-07-01 12:45:42.289 ServerApp] Saving file at /2006~2021気圧年平均.ipynb
+[I 2022-07-01 12:47:42.929 ServerApp] Saving file at /2006~2021気圧年平均.ipynb
+[I 2022-07-01 12:49:43.790 ServerApp] Saving file at /2006~2021気圧年平均.ipynb
+[I 2022-07-01 12:51:44.734 ServerApp] Saving file at /2006~2021気圧年平均.ipynb
+[I 2022-07-01 12:53:45.237 ServerApp] Saving file at /2006~2021気圧年平均.ipynb
+[I 2022-07-01 12:55:45.798 ServerApp] Saving file at /2006~2021気圧年平均.ipynb
+[I 2022-07-01 12:57:46.343 ServerApp] Saving file at /2006~2021気圧年平均.ipynb

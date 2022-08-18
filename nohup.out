@@ -1,0 +1,49 @@
+[I 2022-05-25 18:28:42.056 ServerApp] jupyterlab | extension was successfully linked.
+[W 2022-05-25 18:28:42.059 NotebookApp] 'extra_static_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[I 2022-05-25 18:28:42.227 ServerApp] nbclassic | extension was successfully linked.
+[I 2022-05-25 18:28:42.244 ServerApp] The port 8888 is already in use, trying another port.
+[I 2022-05-25 18:28:42.244 ServerApp] The port 8889 is already in use, trying another port.
+[I 2022-05-25 18:28:42.244 ServerApp] The port 8890 is already in use, trying another port.
+[I 2022-05-25 18:28:42.244 ServerApp] The port 8891 is already in use, trying another port.
+[I 2022-05-25 18:28:42.245 ServerApp] The port 8892 is already in use, trying another port.
+[I 2022-05-25 18:28:42.247 LabApp] JupyterLab extension loaded from /usr/local/lib/python3.6/site-packages/jupyterlab
+[I 2022-05-25 18:28:42.247 LabApp] JupyterLab application directory is /usr/local/share/jupyter/lab
+[I 2022-05-25 18:28:42.249 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2022-05-25 18:28:42.252 ServerApp] nbclassic | extension was successfully loaded.
+[I 2022-05-25 18:28:42.252 ServerApp] Serving notebooks from local directory: /mnt/meteo-hdd02/konagai
+[I 2022-05-25 18:28:42.252 ServerApp] Jupyter Server 1.4.1 is running at:
+[I 2022-05-25 18:28:42.252 ServerApp] http://localhost:8944/lab?token=00c15060cc4824629203490dfc7585561de7c888607519ab
+[I 2022-05-25 18:28:42.252 ServerApp]  or http://127.0.0.1:8944/lab?token=00c15060cc4824629203490dfc7585561de7c888607519ab
+[I 2022-05-25 18:28:42.252 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2022-05-25 18:28:42.255 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/konagai/.local/share/jupyter/runtime/jpserver-1067953-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8944/lab?token=00c15060cc4824629203490dfc7585561de7c888607519ab
+     or http://127.0.0.1:8944/lab?token=00c15060cc4824629203490dfc7585561de7c888607519ab
+[I 2022-05-25 18:29:24.816 ServerApp] jupyterlab | extension was successfully linked.
+[W 2022-05-25 18:29:24.818 NotebookApp] 'extra_static_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[I 2022-05-25 18:29:24.987 ServerApp] nbclassic | extension was successfully linked.
+[I 2022-05-25 18:29:25.004 ServerApp] The port 8888 is already in use, trying another port.
+[I 2022-05-25 18:29:25.004 ServerApp] The port 8889 is already in use, trying another port.
+[I 2022-05-25 18:29:25.004 ServerApp] The port 8890 is already in use, trying another port.
+[I 2022-05-25 18:29:25.004 ServerApp] The port 8891 is already in use, trying another port.
+[I 2022-05-25 18:29:25.005 ServerApp] The port 8892 is already in use, trying another port.
+[I 2022-05-25 18:29:25.005 ServerApp] The port 8864 is already in use, trying another port.
+[I 2022-05-25 18:29:25.007 LabApp] JupyterLab extension loaded from /usr/local/lib/python3.6/site-packages/jupyterlab
+[I 2022-05-25 18:29:25.007 LabApp] JupyterLab application directory is /usr/local/share/jupyter/lab
+[I 2022-05-25 18:29:25.009 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2022-05-25 18:29:25.012 ServerApp] nbclassic | extension was successfully loaded.
+[I 2022-05-25 18:29:25.012 ServerApp] Serving notebooks from local directory: /mnt/meteo-hdd02/konagai
+[I 2022-05-25 18:29:25.012 ServerApp] Jupyter Server 1.4.1 is running at:
+[I 2022-05-25 18:29:25.012 ServerApp] http://localhost:8786/lab?token=d6b1302e35407c320954b7534c0b49a590db00627f890e1a
+[I 2022-05-25 18:29:25.012 ServerApp]  or http://127.0.0.1:8786/lab?token=d6b1302e35407c320954b7534c0b49a590db00627f890e1a
+[I 2022-05-25 18:29:25.012 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2022-05-25 18:29:25.015 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/konagai/.local/share/jupyter/runtime/jpserver-1067960-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8786/lab?token=d6b1302e35407c320954b7534c0b49a590db00627f890e1a
+     or http://127.0.0.1:8786/lab?token=d6b1302e35407c320954b7534c0b49a590db00627f890e1a
